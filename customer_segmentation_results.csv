@@ -1,0 +1,1001 @@
+CustomerID,Name,Email,Gender,Age,City,MaritalStatus,NumChildren,JoinDate,Recency,Monetary,Frequency,R_Score,F_Score,M_Score,RFM_Score,Segment,Age_Group
+CUST10000,Onkar Bhargava,pkeer@yahoo.com,Male,54,Delhi,Divorced,0,2021-02-22,13,21265.49,23,2,3,2,232,At Risk,45-60
+CUST10001,Divit Kohli,mkalita@sarin.com,Female,48,Kolkata,Married,0,2023-12-06,35,28654.31,30,3,5,5,355,Loyal Customers,45-60
+CUST10002,Kiara Behl,apteanay@hotmail.com,Male,75,Kolkata,Widowed,2,2023-08-23,18,23884.03,24,2,3,3,233,At Risk,60+
+CUST10003,Vaibhav Sankar,bseshadri@choudhry.info,Male,62,Pune,Divorced,2,2022-11-17,81,24206.03,25,5,4,3,543,Loyal Customers,60+
+CUST10004,Shray D’Alia,bdhillon@toor-mall.com,Male,55,Delhi,Divorced,0,2022-12-04,8,25565.3,19,1,1,4,114,Lost,45-60
+CUST10005,Fateh Sharaf,qkulkarni@gmail.com,Male,59,Jaipur,Single,3,2021-05-13,24,29459.82,29,2,5,5,255,At Risk,45-60
+CUST10006,Khushi Wadhwa,craja@yahoo.com,Female,61,Hyderabad,Widowed,2,2021-11-12,11,27922.36,28,1,5,5,155,At Risk,60+
+CUST10007,Zeeshan Salvi,ira51@saini-kumar.com,Not Disclosed,32,Pune,Widowed,1,2021-08-10,86,14957.060000000001,15,5,1,1,511,Others,30-45
+CUST10008,Elakshi Trivedi,ayesha07@gmail.com,Female,32,Hyderabad,Widowed,4,2023-11-20,3,19479.25,19,1,1,2,112,Lost,30-45
+CUST10009,Neelofar Chada,abramsolanki@madan.com,Male,44,Jaipur,Single,0,2021-11-20,7,22832.83,25,1,4,3,143,At Risk,30-45
+CUST10010,Kashvi Goda,nirvi89@hotmail.com,Not Disclosed,73,Ahmedabad,Single,2,2022-04-18,14,20932.93,20,2,2,2,222,New Customers,60+
+CUST10011,Vardaniya Varty,aaryahibala@virk-gopal.org,Not Disclosed,63,Jaipur,Widowed,1,2020-08-06,17,23159.47,22,2,2,3,223,Others,60+
+CUST10012,Dishani Jhaveri,zeeshan50@hotmail.com,Not Disclosed,30,Ahmedabad,Divorced,1,2022-12-07,59,26626.07,28,4,5,4,454,Champions,<30
+CUST10013,Amira Rama,myrachakrabarti@master.com,Female,72,Jaipur,Widowed,1,2022-11-15,13,14536.66,19,2,1,1,211,New Customers,60+
+CUST10014,Arhaan Trivedi,vigadvik@amble-shroff.com,Male,48,Hyderabad,Widowed,1,2023-12-21,32,23325.0,21,3,2,3,323,Others,45-60
+CUST10015,Faiyaz Sur,riaan12@datta.com,Male,41,Jaipur,Divorced,0,2021-08-20,6,26315.71,20,1,2,4,124,Lost,30-45
+CUST10016,Neelofar Sawhney,usarna@yahoo.com,Not Disclosed,50,Delhi,Married,1,2023-05-15,4,24607.24,24,1,3,4,134,At Risk,45-60
+CUST10017,Anay Dugal,aaina34@gmail.com,Female,41,Pune,Single,1,2022-08-03,42,21241.48,25,3,4,2,342,Others,30-45
+CUST10018,Mahika Kalita,advikissac@badami.com,Female,63,Lucknow,Widowed,2,2021-08-26,72,20383.920000000002,19,4,1,2,412,Others,60+
+CUST10019,Inaaya  Thaman,hchoudhury@aurora.org,Male,50,Hyderabad,Single,2,2022-06-21,155,24529.64,25,5,4,4,544,Champions,45-60
+CUST10020,Nirvi Raval,shanrohan@gmail.com,Not Disclosed,73,Jaipur,Married,1,2023-12-29,4,19111.420000000002,22,1,2,2,122,Lost,60+
+CUST10021,Ryan Banik,rohan26@date.net,Female,72,Lucknow,Divorced,1,2021-06-23,19,18806.9,20,2,2,2,222,New Customers,60+
+CUST10022,Kiara Tank,xchada@rastogi.biz,Female,60,Jaipur,Single,1,2024-04-24,60,21368.65,15,4,1,3,413,Others,45-60
+CUST10023,Divyansh Chauhan,bhaminiben@hotmail.com,Not Disclosed,50,Bangalore,Married,1,2021-06-05,79,30622.22,27,5,4,5,545,Champions,45-60
+CUST10024,Dishani Krish,manjari64@brar.com,Male,48,Chennai,Married,3,2022-03-26,8,25362.43,24,1,3,4,134,At Risk,45-60
+CUST10025,Shayak Kala,pari16@gera.net,Female,49,Chennai,Widowed,1,2024-01-10,4,14074.550000000001,19,1,1,1,111,Lost,45-60
+CUST10026,Chirag Seshadri,bhavsarjayan@luthra.com,Not Disclosed,52,Lucknow,Divorced,1,2022-08-20,69,23621.41,25,4,4,3,443,Loyal Customers,45-60
+CUST10027,Kismat Kulkarni,shayak51@yahoo.com,Male,69,Hyderabad,Married,1,2023-10-21,30,22327.31,20,3,2,3,323,Others,60+
+CUST10028,Himmat Mann,arnav61@verma-subramaniam.com,Male,73,Delhi,Divorced,0,2021-07-29,11,18921.46,18,1,1,2,112,Lost,60+
+CUST10029,Shlok Bhandari,mangalira@gmail.com,Not Disclosed,22,Delhi,Single,1,2024-02-06,41,27318.86,24,3,3,4,334,Loyal Customers,<30
+CUST10030,Priyansh Gopal,karnikraghav@gmail.com,Female,33,Ahmedabad,Single,2,2022-12-25,72,15128.23,17,4,1,1,411,Others,30-45
+CUST10031,Ritvik Ahuja,jhaverifarhan@chandra.org,Male,40,Ahmedabad,Single,0,2023-12-03,35,25724.97,23,3,3,4,334,Loyal Customers,30-45
+CUST10032,Farhan Kar,indranilsharaf@kalla.net,Female,51,Bangalore,Divorced,2,2022-05-14,44,30688.059999999998,27,4,4,5,445,Champions,45-60
+CUST10033,Ira Date,divyansh35@gmail.com,Female,47,Chennai,Widowed,1,2024-06-10,1,12485.71,16,1,1,1,111,Lost,45-60
+CUST10034,Vedika Divan,uhayre@yahoo.com,Male,37,Kolkata,Divorced,1,2020-09-09,153,30387.64,21,5,2,5,525,Potential Loyalists,30-45
+CUST10035,Samar Rama,dassmadhav@hotmail.com,Male,34,Delhi,Divorced,3,2020-11-03,29,32232.78,30,3,5,5,355,Loyal Customers,30-45
+CUST10036,Nitara Gokhale,hrishitachawla@yahoo.com,Not Disclosed,31,Lucknow,Widowed,2,2023-11-19,39,12860.83,17,3,1,1,311,Others,30-45
+CUST10037,Taran Baria,shettyalia@gmail.com,Male,32,Mumbai,Widowed,0,2021-06-03,107,27130.43,27,5,4,4,544,Champions,30-45
+CUST10038,Manikya Hayer,gadekabir@yahoo.com,Not Disclosed,28,Pune,Widowed,1,2023-05-07,18,23476.27,24,2,3,3,233,At Risk,<30
+CUST10039,Nirvaan Ganesh,dasmadhup@swamy.biz,Male,58,Jaipur,Widowed,0,2023-12-12,58,23178.100000000002,22,4,2,3,423,Potential Loyalists,45-60
+CUST10040,Ishita Vig,aptemyra@dhillon.info,Not Disclosed,19,Kolkata,Divorced,2,2020-11-18,9,24650.49,23,1,3,4,134,At Risk,<30
+CUST10041,Divyansh Krishna,kumarnitya@gmail.com,Female,21,Ahmedabad,Married,4,2022-07-27,95,18174.28,21,5,2,2,522,Potential Loyalists,<30
+CUST10042,Hridaan Tara,emir89@yahoo.com,Male,37,Delhi,Single,1,2021-05-03,69,18488.29,17,4,1,2,412,Others,30-45
+CUST10043,Hridaan Mahajan,misha83@doctor.net,Female,65,Bangalore,Widowed,1,2021-02-10,29,29659.3,30,3,5,5,355,Loyal Customers,60+
+CUST10044,Riya Venkataraman,vanya17@maharaj-dass.net,Male,18,Jaipur,Single,1,2021-03-31,111,28420.190000000002,23,5,3,5,535,Loyal Customers,<30
+CUST10045,Aayush Hora,pranaykibe@gmail.com,Male,75,Lucknow,Widowed,0,2022-06-11,11,26609.66,27,1,4,4,144,At Risk,60+
+CUST10046,Kaira Andra,kavya29@biswas.com,Not Disclosed,57,Jaipur,Single,1,2023-12-12,11,30458.69,30,1,5,5,155,At Risk,45-60
+CUST10047,Jayant Ramesh,aradhyaaggarwal@lalla.net,Female,24,Hyderabad,Widowed,1,2022-04-07,30,19168.239999999998,18,3,1,2,312,Others,<30
+CUST10048,Piya Reddy,sakshamkota@khatri.biz,Female,24,Kolkata,Divorced,1,2024-05-16,30,19989.84,18,3,1,2,312,Others,<30
+CUST10049,Neelofar Choudhary,singhdiya@vyas.net,Male,38,Lucknow,Widowed,3,2022-01-03,16,35725.15,34,2,5,5,255,At Risk,30-45
+CUST10050,Sahil Dixit,ivan79@gmail.com,Male,28,Hyderabad,Divorced,2,2023-10-31,16,19831.64,17,2,1,2,212,New Customers,<30
+CUST10051,Mahika Kurian,indransdass@yahoo.com,Not Disclosed,68,Bangalore,Divorced,1,2024-03-20,23,24862.97,23,2,3,4,234,At Risk,60+
+CUST10052,Bhamini Sangha,veer82@hotmail.com,Female,61,Delhi,Widowed,3,2021-07-02,114,22263.09,23,5,3,3,533,Loyal Customers,60+
+CUST10053,Eshani Bath,deolsara@gmail.com,Female,74,Jaipur,Widowed,2,2023-09-05,29,41674.56,30,3,5,5,355,Loyal Customers,60+
+CUST10054,Ahana  Varghese,bsuresh@butala-gaba.info,Not Disclosed,33,Delhi,Single,0,2021-03-02,20,36861.79,33,2,5,5,255,At Risk,30-45
+CUST10055,Lakshit Bhasin,qbhargava@yahoo.com,Male,28,Jaipur,Married,0,2021-02-10,5,26342.37,27,1,4,4,144,At Risk,<30
+CUST10056,Uthkarsh Shere,evakanda@anne.org,Female,56,Jaipur,Divorced,1,2021-10-03,32,32921.23,30,3,5,5,355,Loyal Customers,45-60
+CUST10057,Lagan Chadha,hrishitachaudhry@yahoo.com,Female,25,Ahmedabad,Married,3,2021-08-09,131,21213.26,21,5,2,2,522,Potential Loyalists,<30
+CUST10058,Pihu Kapoor,ayesha61@mangal.com,Not Disclosed,67,Pune,Married,1,2021-11-24,61,22180.19,24,4,3,3,433,Loyal Customers,60+
+CUST10059,Zara Arora,mahajanritvik@sidhu.com,Male,38,Mumbai,Widowed,0,2021-10-13,19,21670.18,23,2,3,3,233,At Risk,30-45
+CUST10060,Kaira Swaminathan,rkrishnamurthy@yahoo.com,Male,71,Bangalore,Divorced,0,2020-11-22,32,29647.63,26,3,4,5,345,Loyal Customers,60+
+CUST10061,Aarav Bhatia,tgill@hotmail.com,Not Disclosed,68,Kolkata,Single,1,2023-10-20,5,19094.82,21,1,2,2,122,Lost,60+
+CUST10062,Vardaniya Setty,sabharwaluthkarsh@yahoo.com,Male,54,Delhi,Divorced,1,2022-04-10,18,30194.73,27,2,4,5,245,At Risk,45-60
+CUST10063,Ranbir Ravi,hrama@sharma-sawhney.com,Female,54,Jaipur,Single,1,2021-06-10,72,19584.72,22,4,2,2,422,Potential Loyalists,45-60
+CUST10064,Alisha Rao,eshani06@kala.org,Female,24,Mumbai,Divorced,0,2023-07-25,33,20293.07,26,3,4,2,342,Others,<30
+CUST10065,Bhamini Sharma,mohanlal06@rau.biz,Not Disclosed,18,Delhi,Widowed,0,2023-01-22,104,15173.99,13,5,1,1,511,Others,<30
+CUST10066,Jayesh Sinha,ghoshprerak@jha.net,Male,30,Hyderabad,Widowed,0,2023-11-26,26,16980.34,19,3,1,1,311,Others,<30
+CUST10067,Anahi Thaman,dchad@hotmail.com,Female,28,Hyderabad,Married,2,2021-11-12,178,28540.52,27,5,4,5,545,Champions,<30
+CUST10068,Diya Bawa,goeldarshit@hotmail.com,Male,45,Kolkata,Divorced,1,2020-10-07,35,26811.92,20,3,2,4,324,Big Spenders,30-45
+CUST10069,Ivan Kulkarni,iyermyra@devi.com,Not Disclosed,48,Chennai,Single,0,2022-06-16,7,29745.91,27,1,4,5,145,At Risk,45-60
+CUST10070,Miraan Wali,darshit18@hotmail.com,Female,20,Mumbai,Single,2,2022-10-27,28,23412.36,25,3,4,3,343,Loyal Customers,<30
+CUST10071,Diya Mallick,rohansachdeva@saxena.com,Female,64,Lucknow,Divorced,1,2022-02-20,50,21414.22,27,4,4,3,443,Loyal Customers,60+
+CUST10072,Vihaan Mand,anyasubramanian@yahoo.com,Female,43,Delhi,Single,3,2022-02-01,62,19269.82,20,4,2,2,422,Potential Loyalists,30-45
+CUST10073,Saanvi Choudhry,nitaraaurora@hotmail.com,Not Disclosed,47,Delhi,Divorced,0,2024-04-05,7,25019.24,22,1,2,4,124,Lost,45-60
+CUST10074,Adah Sidhu,kanav12@kapadia.com,Not Disclosed,67,Jaipur,Widowed,2,2022-04-15,73,15022.48,18,4,1,1,411,Others,60+
+CUST10075,Amira Lall,vanyabiswas@kannan.biz,Female,29,Jaipur,Married,1,2023-02-25,30,14250.63,16,3,1,1,311,Others,<30
+CUST10076,Saanvi Chauhan,beramanikya@yahoo.com,Male,41,Delhi,Divorced,0,2021-08-06,16,34412.15,27,2,4,5,245,At Risk,30-45
+CUST10077,Divyansh Chander,tailorkimaya@walia.com,Female,23,Lucknow,Divorced,3,2021-12-10,145,15500.23,13,5,1,1,511,Others,<30
+CUST10078,Shlok Saini,rameshrania@gmail.com,Female,37,Mumbai,Divorced,0,2022-09-05,171,19157.39,21,5,2,2,522,Potential Loyalists,30-45
+CUST10079,Yakshit Dada,wgulati@gmail.com,Not Disclosed,75,Ahmedabad,Married,1,2020-12-23,183,27773.87,25,5,4,4,544,Champions,60+
+CUST10080,Raunak Kashyap,alishasehgal@yahoo.com,Not Disclosed,57,Lucknow,Single,0,2021-07-23,162,15268.83,14,5,1,1,511,Others,45-60
+CUST10081,Kiara Bhakta,bajajabram@varughese.com,Male,69,Hyderabad,Widowed,0,2021-12-23,19,25631.41,28,2,5,4,254,At Risk,60+
+CUST10082,Kavya Dhawan,wbuch@borra.com,Not Disclosed,73,Delhi,Single,0,2024-05-09,37,31861.25,31,3,5,5,355,Loyal Customers,60+
+CUST10083,Nitya Madan,idatta@kashyap.com,Male,36,Chennai,Widowed,1,2022-03-22,77,24797.15,24,4,3,4,434,Loyal Customers,30-45
+CUST10084,Armaan Loyal,arnavdevan@kalita.com,Male,24,Jaipur,Divorced,0,2024-06-05,18,20105.38,20,2,2,2,222,New Customers,<30
+CUST10085,Navya Bhattacharyya,nitarakapur@yahoo.com,Not Disclosed,29,Bangalore,Married,4,2020-09-09,39,22091.69,24,3,3,3,333,Loyal Customers,<30
+CUST10086,Pranay Rege,bijuraja@chahal.org,Female,37,Delhi,Divorced,0,2021-12-23,11,21872.11,23,1,3,3,133,At Risk,30-45
+CUST10087,Sumer Mahal,riyawable@hotmail.com,Male,27,Jaipur,Single,2,2023-07-18,1,15909.34,18,1,1,1,111,Lost,<30
+CUST10088,Riya Deol,jayesh12@chaudry.com,Not Disclosed,69,Jaipur,Married,0,2022-05-18,2,24331.62,22,1,2,3,123,Lost,60+
+CUST10089,Drishya Keer,dugararnav@gmail.com,Female,52,Bangalore,Single,2,2020-10-19,126,17913.55,23,5,3,1,531,Others,45-60
+CUST10090,Ahana  Salvi,tsingh@arora-shan.net,Not Disclosed,33,Ahmedabad,Single,2,2022-11-01,26,25428.010000000002,26,3,4,4,344,Loyal Customers,30-45
+CUST10091,Ojas Sura,doraarhaan@yahoo.com,Female,69,Kolkata,Divorced,1,2021-09-21,101,14476.47,16,5,1,1,511,Others,60+
+CUST10092,Saksham Shah,yashvi61@doshi.com,Not Disclosed,47,Mumbai,Widowed,2,2020-10-27,92,17625.85,22,5,2,1,521,Others,45-60
+CUST10093,Shalv Gara,iben@hotmail.com,Male,34,Pune,Single,2,2022-09-17,76,23731.27,26,4,4,3,443,Loyal Customers,30-45
+CUST10094,Eshani Mammen,shanaya23@hayer-lad.com,Female,54,Mumbai,Single,2,2024-01-15,8,18993.77,20,1,2,2,122,Lost,45-60
+CUST10095,Shray Bhatnagar,doctoryasmin@loke.com,Not Disclosed,26,Lucknow,Married,0,2020-12-27,3,31143.28,26,1,4,5,145,At Risk,<30
+CUST10096,Purab Gaba,bordesamar@gaba.org,Female,43,Lucknow,Widowed,0,2021-12-06,21,24580.510000000002,28,2,5,4,254,At Risk,30-45
+CUST10097,Ranbir Khatri,seher61@hotmail.com,Male,32,Pune,Single,0,2020-11-12,244,20866.06,19,5,1,2,512,Others,30-45
+CUST10098,Himmat Bajwa,vardaniya39@hotmail.com,Female,50,Pune,Married,0,2023-12-25,20,25677.14,29,2,5,4,254,At Risk,45-60
+CUST10099,Yasmin Rout,ddube@hotmail.com,Female,61,Pune,Married,2,2022-01-06,85,19215.59,20,5,2,2,522,Potential Loyalists,60+
+CUST10100,Aniruddh Borah,jivikabhavsar@gmail.com,Female,53,Lucknow,Divorced,4,2022-01-08,11,22368.02,26,1,4,3,143,At Risk,45-60
+CUST10101,Samiha Rao,mahajanpihu@saxena-bera.com,Male,21,Delhi,Divorced,0,2021-05-11,43,31308.12,30,4,5,5,455,Champions,<30
+CUST10102,Mohanlal Mangal,sundarammadhav@tripathi.biz,Male,37,Ahmedabad,Divorced,2,2021-09-08,22,28145.06,25,2,4,5,245,At Risk,30-45
+CUST10103,Aradhya Savant,krishram@yahoo.com,Female,28,Pune,Single,3,2020-08-31,6,17131.91,19,1,1,1,111,Lost,<30
+CUST10104,Aarna Kara,yasminkhosla@hotmail.com,Not Disclosed,50,Lucknow,Widowed,0,2024-04-03,40,25287.92,29,3,5,4,354,Loyal Customers,45-60
+CUST10105,Yuvraj  Chaudhuri,fkurian@jaggi.net,Female,45,Hyderabad,Single,1,2020-11-18,1,15460.380000000001,17,1,1,1,111,Lost,30-45
+CUST10106,Arnav Goda,chandranrohan@hotmail.com,Female,63,Chennai,Widowed,1,2023-12-17,132,28357.190000000002,23,5,3,5,535,Loyal Customers,60+
+CUST10107,Hrishita Bhasin,urvi89@hotmail.com,Male,52,Mumbai,Single,2,2023-07-07,31,29891.15,31,3,5,5,355,Loyal Customers,45-60
+CUST10108,Hrishita Tank,alisha42@hotmail.com,Not Disclosed,24,Ahmedabad,Single,4,2021-10-10,59,17499.82,21,4,2,1,421,Others,<30
+CUST10109,Ira Som,myra06@sahota.com,Male,67,Lucknow,Single,1,2022-06-19,16,19262.11,20,2,2,2,222,New Customers,60+
+CUST10110,Raunak Sahni,bathaarush@desai-kata.com,Male,72,Kolkata,Widowed,1,2022-05-13,4,19104.42,19,1,1,2,112,Lost,60+
+CUST10111,Myra Shere,vidur71@yahoo.com,Female,46,Bangalore,Widowed,4,2023-12-17,25,26939.12,29,3,5,4,354,Loyal Customers,45-60
+CUST10112,Zeeshan Borah,pranaygour@raja.biz,Male,45,Lucknow,Widowed,3,2022-01-30,11,28662.05,24,1,3,5,135,At Risk,30-45
+CUST10113,Seher Kade,xganesh@yahoo.com,Not Disclosed,36,Ahmedabad,Married,1,2021-09-02,6,29867.71,27,1,4,5,145,At Risk,30-45
+CUST10114,Yakshit Sehgal,balayhansh@gmail.com,Not Disclosed,18,Hyderabad,Widowed,1,2021-06-28,105,23163.03,24,5,3,3,533,Loyal Customers,<30
+CUST10115,Samiha Arya,indrans71@sachar-sengupta.com,Male,58,Lucknow,Married,2,2021-03-18,33,15766.28,18,3,1,1,311,Others,45-60
+CUST10116,Dhruv Kala,hazelkakar@bajwa-sachdev.com,Male,29,Ahmedabad,Married,1,2024-02-15,17,26530.97,19,2,1,4,214,Others,<30
+CUST10117,Oorja Shanker,piya42@swaminathan-sundaram.com,Female,37,Lucknow,Divorced,2,2023-09-13,3,23458.25,30,1,5,3,153,At Risk,30-45
+CUST10118,Parinaaz Rout,qbhatia@din-sanghvi.net,Female,68,Bangalore,Divorced,1,2023-12-02,53,17262.89,19,4,1,1,411,Others,60+
+CUST10119,Farhan Raman,bordeveer@hotmail.com,Male,67,Hyderabad,Widowed,0,2022-09-10,27,23284.31,22,3,2,3,323,Others,60+
+CUST10120,Ivan Lad,isharaf@yahoo.com,Male,75,Mumbai,Single,1,2024-06-04,63,24587.02,17,4,1,4,414,Others,60+
+CUST10121,Myra Wason,aradhya10@saha.com,Male,52,Ahmedabad,Married,0,2024-04-08,16,21757.67,24,2,3,3,233,At Risk,45-60
+CUST10122,Rohan Sidhu,diyadevan@sastry-dasgupta.biz,Female,54,Ahmedabad,Widowed,1,2020-10-24,37,12595.31,12,3,1,1,311,Others,45-60
+CUST10123,Onkar Chatterjee,latamahika@hotmail.com,Female,66,Jaipur,Divorced,0,2021-03-16,25,13590.87,17,3,1,1,311,Others,60+
+CUST10124,Purab Dey,priyansh73@yahoo.com,Female,63,Pune,Divorced,1,2021-03-17,128,31363.84,30,5,5,5,555,Champions,60+
+CUST10125,Nakul Gara,seherwable@saran.com,Female,39,Lucknow,Widowed,0,2022-02-20,57,20067.81,21,4,2,2,422,Potential Loyalists,30-45
+CUST10126,Eva Sant,sakshamrastogi@khatri-gala.com,Female,42,Hyderabad,Single,4,2020-10-27,32,19025.72,19,3,1,2,312,Others,30-45
+CUST10127,Rasha Dave,raviheer@bakshi.com,Not Disclosed,56,Jaipur,Married,4,2021-02-12,27,22845.44,25,3,4,3,343,Loyal Customers,45-60
+CUST10128,Damini Mander,agade@gmail.com,Female,56,Jaipur,Widowed,3,2021-07-15,51,31648.97,23,4,3,5,435,Loyal Customers,45-60
+CUST10129,Mannat Choudhary,ranbirsangha@vasa.org,Not Disclosed,37,Bangalore,Widowed,2,2024-01-26,8,19982.36,25,1,4,2,142,At Risk,30-45
+CUST10130,Akarsh Bhat,hiran14@gmail.com,Not Disclosed,30,Chennai,Single,2,2023-08-19,69,23137.079999999998,25,4,4,3,443,Loyal Customers,<30
+CUST10131,Shray Barad,doctorsamar@desai.com,Not Disclosed,45,Kolkata,Divorced,3,2023-06-22,5,32229.5,30,1,5,5,155,At Risk,30-45
+CUST10132,Dhanush Boase,saira31@hotmail.com,Not Disclosed,64,Delhi,Widowed,4,2022-02-10,43,15169.539999999999,19,4,1,1,411,Others,60+
+CUST10133,Aayush Kurian,godazaina@hotmail.com,Male,58,Ahmedabad,Single,1,2021-12-21,9,17839.95,22,1,2,1,121,Lost,45-60
+CUST10134,Mahika Virk,rbath@hotmail.com,Not Disclosed,27,Kolkata,Divorced,2,2023-08-27,88,26477.91,28,5,5,4,554,Champions,<30
+CUST10135,Jivika Kadakia,madhup48@gmail.com,Male,70,Lucknow,Single,1,2023-03-20,10,26564.24,30,1,5,4,154,At Risk,60+
+CUST10136,Jayant Dara,idevan@dass.com,Female,69,Kolkata,Divorced,0,2020-10-20,25,29558.13,37,3,5,5,355,Loyal Customers,60+
+CUST10137,Anika Bhatnagar,sharmaumang@gmail.com,Female,49,Bangalore,Widowed,1,2022-10-30,5,14635.65,14,1,1,1,111,Lost,45-60
+CUST10138,Inaaya  Mall,alia22@mann.com,Female,50,Delhi,Widowed,0,2023-05-11,62,23618.99,20,4,2,3,423,Potential Loyalists,45-60
+CUST10139,Tejas Wali,indransvala@yahoo.com,Male,60,Pune,Single,0,2022-08-19,81,22869.38,22,5,2,3,523,Potential Loyalists,45-60
+CUST10140,Yuvaan Bhargava,ritvik90@agrawal.com,Not Disclosed,28,Delhi,Widowed,2,2024-02-13,40,18191.01,18,3,1,2,312,Others,<30
+CUST10141,Amira Aurora,xdevi@yahoo.com,Female,56,Ahmedabad,Married,1,2022-03-10,105,26893.44,20,5,2,4,524,Potential Loyalists,45-60
+CUST10142,Baiju Bawa,royrenee@hotmail.com,Male,74,Chennai,Divorced,0,2022-04-20,104,18384.71,21,5,2,2,522,Potential Loyalists,60+
+CUST10143,Faiyaz Raj,ishita49@gokhale.com,Not Disclosed,71,Jaipur,Divorced,1,2020-07-29,33,24155.01,25,3,4,3,343,Loyal Customers,60+
+CUST10144,Emir Mand,farhansoni@gmail.com,Not Disclosed,65,Mumbai,Married,0,2024-07-08,3,28005.14,31,1,5,5,155,At Risk,60+
+CUST10145,Aarna Wable,nirvi09@yahoo.com,Not Disclosed,63,Jaipur,Divorced,1,2024-06-21,1,17762.440000000002,20,1,2,1,121,Lost,60+
+CUST10146,Taimur Din,ssur@gmail.com,Not Disclosed,32,Kolkata,Widowed,0,2022-05-04,138,19410.93,20,5,2,2,522,Potential Loyalists,30-45
+CUST10147,Bhavin Garde,inaaya-rout@kohli.com,Female,73,Lucknow,Divorced,2,2023-04-11,83,21808.06,24,5,3,3,533,Loyal Customers,60+
+CUST10148,Anvi Yadav,lraval@sehgal-comar.com,Female,57,Hyderabad,Single,3,2023-01-20,40,33617.24,34,3,5,5,355,Loyal Customers,45-60
+CUST10149,Shalv Saha,esharaf@koshy-sachdev.com,Not Disclosed,43,Chennai,Widowed,3,2021-08-18,49,24635.16,28,4,5,4,454,Champions,30-45
+CUST10150,Yakshit Madan,ideol@ahuja.biz,Male,68,Ahmedabad,Married,0,2022-05-31,93,19246.11,19,5,1,2,512,Others,60+
+CUST10151,Neysa Barad,ysinha@krishnamurthy.com,Not Disclosed,28,Lucknow,Widowed,1,2021-01-14,210,26887.19,25,5,4,4,544,Champions,<30
+CUST10152,Indrans Lala,advik76@sarraf.com,Not Disclosed,27,Lucknow,Divorced,1,2024-06-23,3,29234.49,26,1,4,5,145,At Risk,<30
+CUST10153,Aarush Magar,qbuch@garg.com,Male,26,Bangalore,Widowed,1,2022-11-11,33,20399.19,21,3,2,2,322,Others,<30
+CUST10154,Jayant Guha,aaryahidalal@kuruvilla.com,Female,33,Delhi,Married,2,2020-11-24,272,20635.04,23,5,3,2,532,Potential Loyalists,30-45
+CUST10155,Nishith Issac,mandernayantara@gmail.com,Female,22,Delhi,Married,1,2023-07-21,38,16764.21,19,3,1,1,311,Others,<30
+CUST10156,Jhanvi Batta,ladnakul@gmail.com,Female,24,Bangalore,Single,0,2022-03-22,174,16016.11,17,5,1,1,511,Others,<30
+CUST10157,Anahita Dewan,kimayabhavsar@hotmail.com,Not Disclosed,19,Hyderabad,Single,1,2020-08-30,2,23516.38,32,1,5,3,153,At Risk,<30
+CUST10158,Trisha Loke,kmalhotra@hotmail.com,Not Disclosed,70,Lucknow,Widowed,1,2023-08-02,7,29484.010000000002,24,1,3,5,135,At Risk,60+
+CUST10159,Zara Chaudhry,taran24@hotmail.com,Female,25,Lucknow,Married,0,2022-04-04,171,21495.83,20,5,2,3,523,Potential Loyalists,<30
+CUST10160,Vanya Sen,shayak24@date-ghosh.biz,Female,32,Pune,Widowed,1,2021-10-06,70,33240.71,28,4,5,5,455,Champions,30-45
+CUST10161,Abram Borde,mamooty31@luthra.net,Male,32,Hyderabad,Divorced,1,2021-10-05,296,28065.93,26,5,4,5,545,Champions,30-45
+CUST10162,Kashvi Boase,msawhney@gmail.com,Not Disclosed,42,Hyderabad,Widowed,2,2022-05-26,42,16671.719999999998,15,3,1,1,311,Others,30-45
+CUST10163,Indrans Srivastava,shenoyyuvaan@joshi-sanghvi.com,Female,49,Lucknow,Single,3,2023-03-27,13,25634.43,27,2,4,4,244,At Risk,45-60
+CUST10164,Pari Luthra,vaibhavboase@chaudhuri-sahota.biz,Male,20,Mumbai,Single,3,2023-02-02,9,26321.66,21,1,2,4,124,Lost,<30
+CUST10165,Mamooty Dixit,ayesha84@kurian.com,Female,74,Kolkata,Divorced,3,2022-02-03,11,19192.62,26,1,4,2,142,At Risk,60+
+CUST10166,Akarsh Dhillon,tanya74@balakrishnan.com,Female,28,Bangalore,Single,0,2023-07-29,18,20249.47,20,2,2,2,222,New Customers,<30
+CUST10167,Mohanlal Tara,varmaadira@raj.com,Male,74,Jaipur,Single,1,2021-04-03,25,15608.84,18,3,1,1,311,Others,60+
+CUST10168,Gatik Zachariah,hsahota@talwar.org,Female,26,Delhi,Widowed,2,2022-09-20,50,11735.21,13,4,1,1,411,Others,<30
+CUST10169,Saanvi Bhasin,esaini@rana.com,Female,75,Mumbai,Single,1,2021-08-28,75,19834.11,23,4,3,2,432,Potential Loyalists,60+
+CUST10170,Oorja Sampath,xdevan@kade.info,Not Disclosed,71,Bangalore,Single,3,2023-04-16,59,18648.32,23,4,3,2,432,Potential Loyalists,60+
+CUST10171,Kabir Mammen,cshetty@chhabra-hegde.net,Male,45,Delhi,Married,0,2020-12-27,70,26021.7,25,4,4,4,444,Champions,30-45
+CUST10172,Nirvaan Batta,vaidyaaarna@chandra-chadha.org,Not Disclosed,26,Ahmedabad,Married,2,2024-01-27,32,33993.03,26,3,4,5,345,Loyal Customers,<30
+CUST10173,Diya Hans,mehulgole@hotmail.com,Female,39,Ahmedabad,Divorced,2,2022-09-16,11,22324.73,19,1,1,3,113,Lost,30-45
+CUST10174,Shlok Zachariah,nbains@walla.com,Male,33,Mumbai,Married,1,2024-04-22,1,29017.0,29,1,5,5,155,At Risk,30-45
+CUST10175,Keya Krishna,zbatra@upadhyay.com,Not Disclosed,62,Jaipur,Single,3,2022-07-27,169,20311.489999999998,20,5,2,2,522,Potential Loyalists,60+
+CUST10176,Sumer Keer,banand@raja-shere.com,Not Disclosed,44,Jaipur,Married,2,2022-04-02,63,32829.85,29,4,5,5,455,Champions,30-45
+CUST10177,Kimaya Raja,venkateshmahika@yahoo.com,Not Disclosed,45,Delhi,Divorced,2,2023-12-16,3,22238.59,22,1,2,3,123,Lost,30-45
+CUST10178,Elakshi Subramanian,badamikaira@amble.com,Not Disclosed,66,Delhi,Divorced,0,2022-05-04,49,27393.78,31,4,5,4,454,Champions,60+
+CUST10179,Suhana Majumdar,keya17@barman.info,Male,27,Mumbai,Married,3,2022-01-03,42,36781.37,32,3,5,5,355,Loyal Customers,<30
+CUST10180,Ishaan Gaba,hunarwason@hotmail.com,Male,21,Delhi,Widowed,1,2021-12-30,10,33987.78,34,1,5,5,155,At Risk,<30
+CUST10181,Yuvaan Dutt,shlok49@yahoo.com,Male,38,Mumbai,Married,1,2021-03-16,84,27047.95,22,5,2,4,524,Potential Loyalists,30-45
+CUST10182,Tiya Rau,tanya68@mangat-srivastava.org,Female,60,Bangalore,Widowed,2,2020-09-25,8,34487.06,32,1,5,5,155,At Risk,45-60
+CUST10183,Rhea Chada,ibarman@yahoo.com,Female,19,Jaipur,Divorced,0,2020-12-05,2,27556.79,26,1,4,4,144,At Risk,<30
+CUST10184,Miraan Cheema,saira70@kunda.com,Female,23,Ahmedabad,Single,3,2022-12-01,74,30228.38,25,4,4,5,445,Champions,<30
+CUST10185,Ira Dugar,ela20@yahoo.com,Male,64,Ahmedabad,Divorced,2,2024-01-26,9,19254.170000000002,23,1,3,2,132,At Risk,60+
+CUST10186,Yasmin Shenoy,dugarzeeshan@bumb.com,Female,68,Kolkata,Single,3,2024-01-14,27,25731.73,22,3,2,4,324,Big Spenders,60+
+CUST10187,Kabir Zacharia,farhanraj@raj.com,Female,24,Kolkata,Married,1,2023-08-01,14,37627.78,30,2,5,5,255,At Risk,<30
+CUST10188,Amira Chaudhari,amani59@goel.com,Male,39,Chennai,Widowed,4,2023-08-23,1,22906.420000000002,24,1,3,3,133,At Risk,30-45
+CUST10189,Arhaan Butala,agrawalmanikya@gmail.com,Not Disclosed,48,Delhi,Married,2,2020-08-19,75,17311.5,18,4,1,1,411,Others,45-60
+CUST10190,Arhaan Lalla,ahana-dhawan@korpal.com,Female,51,Jaipur,Single,3,2022-10-21,133,21310.69,26,5,4,2,542,Potential Loyalists,45-60
+CUST10191,Neysa Bansal,kanavsani@dixit.org,Female,65,Bangalore,Married,1,2021-12-15,12,19792.84,20,2,2,2,222,New Customers,60+
+CUST10192,Akarsh Kohli,sahnimishti@salvi.biz,Not Disclosed,38,Delhi,Widowed,1,2022-08-04,60,26193.06,24,4,3,4,434,Loyal Customers,30-45
+CUST10193,Shayak Bansal,ratikurian@yahoo.com,Not Disclosed,22,Mumbai,Divorced,2,2024-02-04,94,26881.66,24,5,3,4,534,Loyal Customers,<30
+CUST10194,Kismat Sangha,rbutala@hotmail.com,Not Disclosed,52,Chennai,Widowed,0,2024-02-26,16,23410.05,26,2,4,3,243,At Risk,45-60
+CUST10195,Jivika Singhal,onkar40@hotmail.com,Female,35,Chennai,Single,1,2024-01-22,10,28863.54,30,1,5,5,155,At Risk,30-45
+CUST10196,Vardaniya Karnik,mehul87@gmail.com,Male,38,Chennai,Divorced,1,2023-10-18,6,37738.94,35,1,5,5,155,At Risk,30-45
+CUST10197,Shamik Sarin,bvenkataraman@rege.com,Female,35,Pune,Widowed,3,2023-07-20,7,26897.07,26,1,4,4,144,At Risk,30-45
+CUST10198,Onkar Sheth,uthkarsh05@dubey-raja.com,Not Disclosed,42,Delhi,Single,0,2024-04-12,17,10974.66,15,2,1,1,211,New Customers,30-45
+CUST10199,Shalv Bhasin,vanyasant@jayaraman-ramanathan.com,Not Disclosed,49,Lucknow,Divorced,2,2021-06-17,43,28694.82,26,4,4,5,445,Champions,45-60
+CUST10200,Nayantara Sarma,romil46@lall-kashyap.com,Not Disclosed,54,Chennai,Divorced,4,2021-07-25,7,22765.35,24,1,3,3,133,At Risk,45-60
+CUST10201,Yuvraj  D’Alia,mohanlalchoudhury@saxena.biz,Not Disclosed,41,Kolkata,Divorced,1,2024-07-28,9,32752.44,37,1,5,5,155,At Risk,30-45
+CUST10202,Saira Doctor,sawhneyrenee@hotmail.com,Female,52,Jaipur,Married,0,2021-06-20,21,15720.880000000001,17,2,1,1,211,New Customers,45-60
+CUST10203,Charvi Chada,goyaladira@garg.net,Female,61,Hyderabad,Married,3,2021-11-18,139,28432.829999999998,28,5,5,5,555,Champions,60+
+CUST10204,Lavanya Bhalla,aaryahi04@gmail.com,Male,67,Kolkata,Single,2,2022-08-28,7,25724.35,23,1,3,4,134,At Risk,60+
+CUST10205,Farhan Krishna,adira53@behl.net,Not Disclosed,61,Ahmedabad,Single,0,2023-04-17,55,26565.7,24,4,3,4,434,Loyal Customers,60+
+CUST10206,Hansh Dhingra,chopraaarav@balasubramanian.com,Male,58,Lucknow,Single,3,2022-10-05,59,26817.06,27,4,4,4,444,Champions,45-60
+CUST10207,Aayush Badal,vardaniya09@gmail.com,Male,59,Bangalore,Widowed,0,2020-11-08,11,28952.6,26,1,4,5,145,At Risk,45-60
+CUST10208,Anaya Chaudhry,kavya88@yahoo.com,Female,75,Pune,Divorced,0,2022-12-14,8,17657.55,16,1,1,1,111,Lost,60+
+CUST10209,Jivin Cheema,darivana@hotmail.com,Male,56,Pune,Married,1,2024-05-09,30,16856.76,19,3,1,1,311,Others,45-60
+CUST10210,Shalv Gade,anandjivika@gmail.com,Not Disclosed,41,Jaipur,Married,2,2022-07-02,176,18133.04,27,5,4,1,541,New Loyalists,30-45
+CUST10211,Tara Chanda,jayeshdoshi@balan.com,Not Disclosed,22,Ahmedabad,Widowed,0,2022-09-22,55,25814.05,32,4,5,4,454,Champions,<30
+CUST10212,Indrajit D’Alia,shray09@kant.com,Not Disclosed,52,Kolkata,Widowed,0,2020-11-03,18,17665.76,22,2,2,1,221,New Customers,45-60
+CUST10213,Fateh Balakrishnan,shenoysamiha@bassi.com,Not Disclosed,74,Jaipur,Widowed,0,2023-05-27,29,28117.87,26,3,4,5,345,Loyal Customers,60+
+CUST10214,Riya Date,sairababu@hotmail.com,Female,18,Hyderabad,Divorced,2,2024-07-25,38,29119.829999999998,26,3,4,5,345,Loyal Customers,<30
+CUST10215,Shaan Gill,qsinghal@hotmail.com,Not Disclosed,18,Jaipur,Single,2,2021-08-24,29,25493.96,24,3,3,4,334,Loyal Customers,<30
+CUST10216,Dhruv Kala,vvyas@ramakrishnan.com,Not Disclosed,74,Chennai,Divorced,1,2022-03-15,122,20627.49,24,5,3,2,532,Potential Loyalists,60+
+CUST10217,Trisha Sur,hazel45@yahoo.com,Not Disclosed,70,Jaipur,Widowed,2,2021-08-05,5,27910.2,26,1,4,5,145,At Risk,60+
+CUST10218,Tejas Goda,gkeer@gmail.com,Not Disclosed,37,Pune,Divorced,0,2022-04-25,20,23642.45,23,2,3,3,233,At Risk,30-45
+CUST10219,Romil Chad,irasawhney@hotmail.com,Female,55,Bangalore,Married,0,2022-02-24,76,21800.85,17,4,1,3,413,Others,45-60
+CUST10220,Amira Roy,ishaanbaral@date.com,Male,45,Lucknow,Single,1,2021-03-18,3,30040.29,38,1,5,5,155,At Risk,30-45
+CUST10221,Anika Dubey,jbose@wali-kar.com,Female,36,Mumbai,Single,3,2021-04-21,100,28872.22,33,5,5,5,555,Champions,30-45
+CUST10222,Piya Dugar,anviloke@bajaj.com,Male,42,Ahmedabad,Widowed,0,2024-03-02,119,20515.54,21,5,2,2,522,Potential Loyalists,30-45
+CUST10223,Sara Goswami,shlok12@yahoo.com,Female,58,Pune,Divorced,1,2023-05-03,35,26611.329999999998,25,3,4,4,344,Loyal Customers,45-60
+CUST10224,Mannat Sawhney,dasguptaromil@manda-jaggi.com,Male,48,Chennai,Married,1,2020-09-17,255,19854.87,17,5,1,2,512,Others,45-60
+CUST10225,Mehul Dhillon,divitbir@gour.com,Male,29,Ahmedabad,Divorced,3,2022-02-07,3,18310.12,20,1,2,2,122,Lost,<30
+CUST10226,Manikya Barad,cvenkataraman@hotmail.com,Not Disclosed,68,Ahmedabad,Widowed,0,2021-03-04,115,22484.42,24,5,3,3,533,Loyal Customers,60+
+CUST10227,Jivin Kunda,adahsuri@gmail.com,Not Disclosed,36,Kolkata,Divorced,1,2022-10-01,4,26177.49,25,1,4,4,144,At Risk,30-45
+CUST10228,Manikya Singh,trishachawla@bumb.com,Female,31,Pune,Widowed,2,2021-10-02,18,18761.56,18,2,1,2,212,New Customers,30-45
+CUST10229,Vardaniya Gole,parinaazsarin@bassi.com,Male,22,Bangalore,Married,4,2021-05-10,109,25941.54,28,5,5,4,554,Champions,<30
+CUST10230,Ivan Mani,sakshamwalia@majumdar-badami.com,Male,64,Mumbai,Single,0,2023-02-18,97,26053.58,26,5,4,4,544,Champions,60+
+CUST10231,Charvi Mammen,aradhyabandi@hotmail.com,Female,67,Delhi,Widowed,2,2024-03-15,33,30189.899999999998,26,3,4,5,345,Loyal Customers,60+
+CUST10232,Lavanya Dutt,agara@deep.com,Male,71,Mumbai,Single,1,2021-12-06,72,18169.69,20,4,2,2,422,Potential Loyalists,60+
+CUST10233,Shaan Chowdhury,ojas47@yahoo.com,Male,53,Hyderabad,Widowed,1,2020-08-27,78,21753.15,29,5,5,3,553,Loyal Customers,45-60
+CUST10234,Ishaan Ravel,bhardwajadah@yahoo.com,Not Disclosed,24,Jaipur,Widowed,2,2020-08-16,20,25985.53,29,2,5,4,254,At Risk,<30
+CUST10235,Ranbir Gokhale,mahika42@yahoo.com,Not Disclosed,25,Ahmedabad,Divorced,0,2024-07-08,62,18960.97,15,4,1,2,412,Others,<30
+CUST10236,Divit Issac,vivaankar@gmail.com,Not Disclosed,72,Mumbai,Married,2,2021-03-07,33,25533.07,25,3,4,4,344,Loyal Customers,60+
+CUST10237,Rasha Dara,dhanushshanker@bahl.net,Male,73,Kolkata,Single,2,2024-02-12,4,23003.62,26,1,4,3,143,At Risk,60+
+CUST10238,Rati Gade,aissac@majumdar-sengupta.net,Female,61,Jaipur,Widowed,3,2022-07-31,25,18026.81,23,3,3,1,331,Others,60+
+CUST10239,Ivan Rajagopalan,trivedisamaira@yahoo.com,Male,56,Pune,Single,0,2024-02-09,41,24657.649999999998,25,3,4,4,344,Loyal Customers,45-60
+CUST10240,Advika Dani,kanttara@yahoo.com,Not Disclosed,75,Hyderabad,Married,1,2024-01-26,30,31716.04,26,3,4,5,345,Loyal Customers,60+
+CUST10241,Himmat Kant,jiya52@korpal.org,Female,65,Jaipur,Divorced,3,2021-05-28,1,23078.56,24,1,3,3,133,At Risk,60+
+CUST10242,Ahana  Sagar,yakshitkaul@dugar.com,Not Disclosed,75,Jaipur,Married,2,2021-07-27,15,22193.59,22,2,2,3,223,Others,60+
+CUST10243,Hansh Chana,ishitasastry@yahoo.com,Not Disclosed,39,Pune,Single,0,2021-04-18,235,20192.31,22,5,2,2,522,Potential Loyalists,30-45
+CUST10244,Diya Majumdar,elakshirandhawa@hotmail.com,Not Disclosed,60,Chennai,Divorced,0,2022-07-26,6,25126.35,25,1,4,4,144,At Risk,45-60
+CUST10245,Raunak Samra,talwarshlok@kala.net,Not Disclosed,46,Ahmedabad,Single,0,2021-11-20,76,24918.34,25,4,4,4,444,Champions,45-60
+CUST10246,Miraya Wali,itandon@yahoo.com,Female,35,Hyderabad,Widowed,0,2023-09-13,29,18971.760000000002,17,3,1,2,312,Others,30-45
+CUST10247,Baiju Basak,luthravidur@kapadia.com,Female,30,Kolkata,Single,1,2022-02-14,11,20336.21,21,1,2,2,122,Lost,<30
+CUST10248,Elakshi Varkey,kiarakar@hayer-dhillon.com,Not Disclosed,50,Bangalore,Widowed,0,2022-08-05,56,28416.74,29,4,5,5,455,Champions,45-60
+CUST10249,Kismat Deshpande,mallbiju@bali.info,Female,62,Ahmedabad,Divorced,1,2023-11-16,10,36299.340000000004,34,1,5,5,155,At Risk,60+
+CUST10250,Ahana  Ganesh,vbala@dewan-jayaraman.info,Female,41,Lucknow,Widowed,0,2024-03-10,55,18388.43,16,4,1,2,412,Others,30-45
+CUST10251,Ivan Iyer,jkrishnan@yahoo.com,Male,56,Bangalore,Widowed,1,2021-12-25,34,24794.8,26,3,4,4,344,Loyal Customers,45-60
+CUST10252,Hiran Ramaswamy,vedikatak@wali.com,Male,50,Chennai,Married,2,2021-03-12,93,20494.03,23,5,3,2,532,Potential Loyalists,45-60
+CUST10253,Aarna Bal,umangmammen@yahoo.com,Male,38,Lucknow,Widowed,1,2021-01-05,75,18394.41,21,4,2,2,422,Potential Loyalists,30-45
+CUST10254,Vivaan Amble,csehgal@yahoo.com,Male,26,Bangalore,Divorced,0,2024-07-24,9,19834.68,22,1,2,2,122,Lost,<30
+CUST10255,Nayantara Mannan,suhana42@gmail.com,Not Disclosed,52,Mumbai,Married,2,2023-09-22,67,15826.8,17,4,1,1,411,Others,45-60
+CUST10256,Alia Bose,luthragatik@hotmail.com,Male,54,Hyderabad,Divorced,1,2022-08-28,108,15676.9,20,5,2,1,521,Others,45-60
+CUST10257,Bhamini Sandhu,jhanvi97@yahoo.com,Male,67,Mumbai,Divorced,2,2021-12-05,19,25727.93,27,2,4,4,244,At Risk,60+
+CUST10258,Heer Chopra,heerchaudhry@das.com,Male,23,Hyderabad,Divorced,2,2022-08-20,1,27262.46,28,1,5,4,154,At Risk,<30
+CUST10259,Shalv Kadakia,taran59@wadhwa.biz,Female,35,Lucknow,Widowed,0,2024-06-04,7,29175.21,26,1,4,5,145,At Risk,30-45
+CUST10260,Mamooty Dugar,xsami@gmail.com,Female,40,Bangalore,Single,0,2021-06-18,13,25294.31,21,2,2,4,224,Others,30-45
+CUST10261,Nehmat Yohannan,mehulbali@hotmail.com,Male,61,Lucknow,Single,1,2020-08-11,171,14372.08,13,5,1,1,511,Others,60+
+CUST10262,Lagan Savant,kallaaarush@yahoo.com,Male,64,Delhi,Divorced,1,2021-12-08,37,17247.75,23,3,3,1,331,Others,60+
+CUST10263,Indrans Bhalla,hridaan66@madan-viswanathan.net,Female,51,Mumbai,Divorced,0,2020-12-20,26,31098.39,30,3,5,5,355,Loyal Customers,45-60
+CUST10264,Kartik Buch,hunarbhasin@master-lal.com,Male,43,Chennai,Married,0,2021-10-02,19,21797.739999999998,25,2,4,3,243,At Risk,30-45
+CUST10265,Shamik Raman,akarshgola@gmail.com,Female,35,Mumbai,Divorced,4,2022-05-29,15,31026.35,26,2,4,5,245,At Risk,30-45
+CUST10266,Rania Kothari,sachdevdhruv@gmail.com,Male,40,Bangalore,Divorced,1,2021-07-15,11,15172.89,12,1,1,1,111,Lost,30-45
+CUST10267,Jivika Bora,rhea24@ghosh.info,Not Disclosed,54,Lucknow,Widowed,1,2022-11-03,126,22989.25,24,5,3,3,533,Loyal Customers,45-60
+CUST10268,Kiaan Sem,prishasur@sen.com,Not Disclosed,43,Ahmedabad,Married,2,2020-09-13,76,24084.600000000002,26,4,4,3,443,Loyal Customers,30-45
+CUST10269,Ela Chandra,talwarzaina@verma.com,Not Disclosed,26,Mumbai,Single,0,2020-10-02,29,27376.14,28,3,5,4,354,Loyal Customers,<30
+CUST10270,Saanvi Mani,hridaan65@hotmail.com,Male,75,Kolkata,Divorced,1,2021-01-07,58,23137.39,25,4,4,3,443,Loyal Customers,60+
+CUST10271,Zain Kamdar,kiaanbali@gmail.com,Female,52,Ahmedabad,Divorced,1,2022-01-21,111,19122.53,23,5,3,2,532,Potential Loyalists,45-60
+CUST10272,Akarsh Dara,nsrinivasan@yahoo.com,Female,63,Delhi,Divorced,0,2021-08-02,70,18281.28,17,4,1,2,412,Others,60+
+CUST10273,Baiju Chadha,kalevedika@johal-bhatti.com,Not Disclosed,41,Jaipur,Single,2,2022-12-27,136,20051.489999999998,25,5,4,2,542,Potential Loyalists,30-45
+CUST10274,Zeeshan Sood,kulkarniamani@gmail.com,Female,61,Bangalore,Married,0,2023-07-13,84,26545.71,24,5,3,4,534,Loyal Customers,60+
+CUST10275,Keya Balan,trivedinirvaan@hotmail.com,Not Disclosed,27,Hyderabad,Widowed,2,2023-07-03,22,25884.08,23,2,3,4,234,At Risk,<30
+CUST10276,Adira Borde,hansh24@keer.com,Female,41,Ahmedabad,Married,0,2023-04-18,14,16685.07,17,2,1,1,211,New Customers,30-45
+CUST10277,Suhana Sunder,keerinaaya@hotmail.com,Female,71,Pune,Widowed,0,2022-08-18,24,15207.33,15,2,1,1,211,New Customers,60+
+CUST10278,Gokul Luthra,hdara@yahoo.com,Not Disclosed,27,Ahmedabad,Divorced,2,2022-09-15,18,9333.33,10,2,1,1,211,New Customers,<30
+CUST10279,Advika Bhardwaj,kiararamaswamy@goyal.com,Not Disclosed,56,Mumbai,Single,3,2022-08-09,33,22648.98,25,3,4,3,343,Loyal Customers,45-60
+CUST10280,Faiyaz Sant,kundaadah@bath.info,Not Disclosed,26,Kolkata,Single,1,2021-01-09,20,17175.13,13,2,1,1,211,New Customers,<30
+CUST10281,Kaira Kala,cratti@hotmail.com,Female,56,Kolkata,Divorced,3,2023-03-05,41,15444.86,15,3,1,1,311,Others,45-60
+CUST10282,Raghav Rao,rchoudhary@yahoo.com,Female,43,Lucknow,Widowed,0,2023-02-08,10,24158.98,23,1,3,3,133,At Risk,30-45
+CUST10283,Ahana  Loke,drishya27@divan-master.org,Female,67,Mumbai,Single,2,2023-11-14,78,17883.73,15,5,1,1,511,Others,60+
+CUST10284,Diya Sahni,jsani@hotmail.com,Male,55,Bangalore,Divorced,1,2021-05-08,94,25132.89,25,5,4,4,544,Champions,45-60
+CUST10285,Suhana Rau,advik12@tara-warrior.com,Not Disclosed,59,Chennai,Widowed,2,2022-04-08,12,30398.510000000002,25,2,4,5,245,At Risk,45-60
+CUST10286,Pranay Uppal,hiran18@gmail.com,Male,69,Lucknow,Married,0,2024-02-03,9,20066.02,24,1,3,2,132,At Risk,60+
+CUST10287,Alia Keer,gokul08@gmail.com,Female,73,Bangalore,Single,2,2022-07-06,30,29505.89,28,3,5,5,355,Loyal Customers,60+
+CUST10288,Misha Tailor,adhar@deol.com,Not Disclosed,38,Kolkata,Divorced,0,2023-11-06,41,19385.53,22,3,2,2,322,Others,30-45
+CUST10289,Faiyaz Bawa,nbath@yahoo.com,Not Disclosed,75,Mumbai,Widowed,1,2022-12-24,34,18164.57,21,3,2,2,322,Others,60+
+CUST10290,Khushi Vohra,jayanbala@bhardwaj.com,Female,36,Chennai,Widowed,2,2022-10-29,8,32842.08,33,1,5,5,155,At Risk,30-45
+CUST10291,Suhana Srinivasan,hazelborde@verma.com,Male,58,Lucknow,Married,0,2022-12-08,43,20962.68,18,4,1,2,412,Others,45-60
+CUST10292,Prisha Trivedi,mannat24@hotmail.com,Not Disclosed,25,Jaipur,Married,1,2022-09-19,72,25271.47,23,4,3,4,434,Loyal Customers,<30
+CUST10293,Darshit Varty,apteadah@hotmail.com,Not Disclosed,49,Chennai,Single,4,2024-01-11,11,16185.49,18,1,1,1,111,Lost,45-60
+CUST10294,Aarna Kamdar,lakshitsodhi@badal.biz,Male,48,Hyderabad,Widowed,2,2021-10-10,76,14302.2,17,4,1,1,411,Others,45-60
+CUST10295,Sumer Goel,vritikachowdhury@tailor.com,Male,43,Hyderabad,Single,0,2024-03-08,32,20208.21,23,3,3,2,332,Others,30-45
+CUST10296,Samarth Talwar,onkarbrahmbhatt@walla.biz,Female,60,Hyderabad,Widowed,2,2020-11-10,125,17165.6,19,5,1,1,511,Others,45-60
+CUST10297,Piya Setty,qdugal@dhingra.com,Female,49,Hyderabad,Widowed,1,2021-01-11,36,14440.26,18,3,1,1,311,Others,45-60
+CUST10298,Nitara Badal,bloyal@gmail.com,Not Disclosed,25,Lucknow,Widowed,3,2023-07-05,9,26857.73,29,1,5,4,154,At Risk,<30
+CUST10299,Neelofar Bawa,hchaudhry@yahoo.com,Male,27,Mumbai,Widowed,1,2021-07-23,91,23217.47,20,5,2,3,523,Potential Loyalists,<30
+CUST10300,Nirvaan Korpal,charvigola@rout.org,Male,59,Delhi,Married,1,2020-12-28,183,18116.19,22,5,2,1,521,Others,45-60
+CUST10301,Ishita Kade,jvig@bhatt-balasubramanian.com,Female,60,Jaipur,Divorced,3,2022-06-01,29,30995.96,25,3,4,5,345,Loyal Customers,45-60
+CUST10302,Navya Batta,anvi96@kumar-thakkar.com,Male,51,Delhi,Divorced,0,2022-03-24,68,19644.81,20,4,2,2,422,Potential Loyalists,45-60
+CUST10303,Jhanvi Saxena,mandnitara@hotmail.com,Female,69,Hyderabad,Widowed,4,2021-12-17,21,16470.4,15,2,1,1,211,New Customers,60+
+CUST10304,Trisha Goyal,suhana14@gmail.com,Not Disclosed,69,Hyderabad,Widowed,3,2024-06-12,2,18496.13,20,1,2,2,122,Lost,60+
+CUST10305,Yuvraj  Sastry,khatrikeya@hotmail.com,Not Disclosed,29,Chennai,Married,0,2023-12-28,1,20016.68,22,1,2,2,122,Lost,<30
+CUST10306,Ayesha Suresh,guhazaina@jha.com,Not Disclosed,53,Bangalore,Married,1,2021-02-15,10,14432.630000000001,17,1,1,1,111,Lost,45-60
+CUST10307,Amani Barman,ghosetiya@gmail.com,Male,50,Hyderabad,Widowed,0,2021-08-21,50,31478.9,32,4,5,5,455,Champions,45-60
+CUST10308,Azad Master,ryan18@yahoo.com,Male,51,Hyderabad,Single,0,2020-11-12,8,26316.02,24,1,3,4,134,At Risk,45-60
+CUST10309,Shaan Varty,eshani35@dada.com,Female,25,Lucknow,Single,1,2023-03-20,4,23864.97,24,1,3,3,133,At Risk,<30
+CUST10310,Heer Edwin,sahaanya@yahoo.com,Not Disclosed,24,Pune,Single,4,2021-11-23,40,14499.86,16,3,1,1,311,Others,<30
+CUST10311,Hunar Dara,dayalyakshit@biswas.net,Male,67,Mumbai,Single,4,2024-04-15,45,25459.65,25,4,4,4,444,Champions,60+
+CUST10312,Saksham Hans,armaankapoor@iyer.com,Female,47,Ahmedabad,Widowed,0,2024-06-18,21,35451.32,28,2,5,5,255,At Risk,45-60
+CUST10313,Saira Ray,fganguly@gmail.com,Male,53,Chennai,Widowed,4,2023-11-10,8,23931.46,21,1,2,3,123,Lost,45-60
+CUST10314,Fateh Lala,mahluwalia@gmail.com,Female,53,Bangalore,Widowed,2,2020-11-15,54,18672.7,15,4,1,2,412,Others,45-60
+CUST10315,Hrishita Bhakta,dararyan@lad.com,Male,49,Ahmedabad,Divorced,3,2022-07-10,4,15115.08,17,1,1,1,111,Lost,45-60
+CUST10316,Prerak Ghosh,badal00@hotmail.com,Female,54,Ahmedabad,Married,2,2024-06-09,8,18596.31,22,1,2,2,122,Lost,45-60
+CUST10317,Arnav Chauhan,alisha41@samra.com,Not Disclosed,23,Chennai,Divorced,3,2023-11-24,108,16497.14,16,5,1,1,511,Others,<30
+CUST10318,Myra Zachariah,kannansamiha@mammen.info,Female,34,Ahmedabad,Divorced,1,2020-09-13,36,27981.69,29,3,5,5,355,Loyal Customers,30-45
+CUST10319,Mamooty Biswas,viswanathanhiran@mani-basak.net,Not Disclosed,47,Mumbai,Married,4,2021-04-23,152,21905.18,21,5,2,3,523,Potential Loyalists,45-60
+CUST10320,Kartik Issac,sumer48@vohra-jaggi.net,Female,32,Hyderabad,Single,2,2022-11-13,2,31877.22,29,1,5,5,155,At Risk,30-45
+CUST10321,Ranbir Basu,zmanda@yohannan.com,Not Disclosed,57,Hyderabad,Widowed,2,2022-10-28,126,22256.43,22,5,2,3,523,Potential Loyalists,45-60
+CUST10322,Ela Bal,madhupdutta@yahoo.com,Male,54,Bangalore,Widowed,1,2022-10-23,33,18342.27,17,3,1,2,312,Others,45-60
+CUST10323,Samiha Tiwari,surprisha@gmail.com,Male,23,Delhi,Married,2,2020-09-30,34,25091.57,25,3,4,4,344,Loyal Customers,<30
+CUST10324,Inaaya  Hayer,choprakartik@yahoo.com,Male,19,Kolkata,Widowed,1,2021-02-17,248,15207.19,22,5,2,1,521,Others,<30
+CUST10325,Rohan Lad,kanav88@loke.com,Male,55,Lucknow,Married,2,2023-07-31,6,25205.83,25,1,4,4,144,At Risk,45-60
+CUST10326,Anvi Butala,swalia@borra.com,Not Disclosed,22,Hyderabad,Widowed,0,2020-12-12,23,29754.95,25,2,4,5,245,At Risk,<30
+CUST10327,Anika Chahal,qtak@venkatesh.biz,Male,60,Kolkata,Divorced,2,2023-08-03,39,20183.579999999998,23,3,3,2,332,Others,45-60
+CUST10328,Chirag Bhatt,gkoshy@hotmail.com,Male,32,Ahmedabad,Married,1,2024-04-14,38,18712.44,22,3,2,2,322,Others,30-45
+CUST10329,Keya Dash,yuvaan56@hotmail.com,Not Disclosed,36,Delhi,Divorced,0,2022-02-20,7,29564.45,31,1,5,5,155,At Risk,30-45
+CUST10330,Miraya Verma,piyavig@rau.com,Female,19,Ahmedabad,Single,2,2021-07-19,98,18284.309999999998,23,5,3,2,532,Potential Loyalists,<30
+CUST10331,Khushi Koshy,hyohannan@sabharwal.info,Female,34,Lucknow,Single,0,2020-09-07,39,26956.12,29,3,5,4,354,Loyal Customers,30-45
+CUST10332,Shamik Sandhu,khushi89@bhattacharyya-mangal.com,Female,28,Bangalore,Single,0,2022-01-25,103,19041.32,24,5,3,2,532,Potential Loyalists,<30
+CUST10333,Saanvi Kant,yshere@krishna.com,Female,58,Lucknow,Married,2,2022-05-27,48,16183.95,17,4,1,1,411,Others,45-60
+CUST10334,Anay Mandal,mishti82@din.com,Not Disclosed,50,Kolkata,Single,3,2021-10-17,7,24120.74,21,1,2,3,123,Lost,45-60
+CUST10335,Umang Iyengar,qsalvi@gmail.com,Not Disclosed,31,Kolkata,Married,2,2021-04-19,151,22535.25,23,5,3,3,533,Loyal Customers,30-45
+CUST10336,Jivika Barman,andraranbir@desai.com,Not Disclosed,34,Mumbai,Single,2,2022-12-20,47,23750.21,25,4,4,3,443,Loyal Customers,30-45
+CUST10337,Miraya Sekhon,karanshlok@gmail.com,Not Disclosed,42,Pune,Married,0,2022-11-11,34,13154.14,17,3,1,1,311,Others,30-45
+CUST10338,Shray Shah,kannandrishya@hegde.com,Not Disclosed,28,Jaipur,Married,3,2024-03-06,20,27838.98,24,2,3,5,235,At Risk,<30
+CUST10339,Vivaan Bahri,aarush78@lall.biz,Female,67,Kolkata,Widowed,0,2021-07-24,31,28088.33,28,3,5,5,355,Loyal Customers,60+
+CUST10340,Pari Lad,arnavramakrishnan@hotmail.com,Male,60,Bangalore,Married,1,2021-07-09,69,18865.08,18,4,1,2,412,Others,45-60
+CUST10341,Yakshit Kumer,ahana-59@gmail.com,Female,66,Mumbai,Widowed,0,2022-03-07,52,26182.71,26,4,4,4,444,Champions,60+
+CUST10342,Sana Shere,adahbuch@hotmail.com,Not Disclosed,52,Chennai,Married,0,2020-11-27,30,29582.62,24,3,3,5,335,Loyal Customers,45-60
+CUST10343,Priyansh Jhaveri,shray76@hotmail.com,Not Disclosed,65,Mumbai,Widowed,2,2022-09-27,41,11823.91,14,3,1,1,311,Others,60+
+CUST10344,Nakul Gola,akarsh14@vora.com,Male,29,Lucknow,Married,2,2022-03-05,48,27523.82,23,4,3,4,434,Loyal Customers,<30
+CUST10345,Ayesha Anand,obhakta@bhalla.com,Female,51,Chennai,Married,0,2023-11-07,8,28009.44,28,1,5,5,155,At Risk,45-60
+CUST10346,Divit Kaur,balakrishnanpurab@gmail.com,Not Disclosed,74,Lucknow,Single,1,2021-04-23,28,16081.25,15,3,1,1,311,Others,60+
+CUST10347,Seher Rege,kimaya71@yogi-dutta.biz,Male,47,Mumbai,Married,3,2022-10-29,3,27264.44,27,1,4,4,144,At Risk,45-60
+CUST10348,Riaan Barman,wmand@kale-savant.biz,Female,48,Mumbai,Single,4,2024-07-22,6,21882.21,23,1,3,3,133,At Risk,45-60
+CUST10349,Kabir Borra,sumer61@rajagopalan.org,Not Disclosed,43,Delhi,Widowed,2,2023-01-27,187,19554.46,17,5,1,2,512,Others,30-45
+CUST10350,Hunar Singhal,anvisarraf@gola.net,Not Disclosed,59,Ahmedabad,Widowed,0,2024-05-31,3,12931.73,13,1,1,1,111,Lost,45-60
+CUST10351,Trisha Chaudry,siyabiswas@hotmail.com,Female,48,Mumbai,Widowed,0,2024-06-14,28,24787.75,25,3,4,4,344,Loyal Customers,45-60
+CUST10352,Ayesha Gill,aroratushar@brahmbhatt.biz,Female,55,Chennai,Married,1,2022-04-11,96,32522.82,31,5,5,5,555,Champions,45-60
+CUST10353,Aaryahi Raju,vyogi@gmail.com,Not Disclosed,72,Ahmedabad,Single,3,2022-06-18,53,31410.55,23,4,3,5,435,Loyal Customers,60+
+CUST10354,Urvi Boase,divijagrawal@gmail.com,Female,44,Kolkata,Single,1,2023-02-03,33,24639.65,23,3,3,4,334,Loyal Customers,30-45
+CUST10355,Ranbir Chatterjee,isaxena@hotmail.com,Male,20,Lucknow,Single,0,2020-09-04,77,26167.15,28,4,5,4,454,Champions,<30
+CUST10356,Ivana Handa,pkata@seth.com,Female,39,Chennai,Single,2,2021-09-23,14,18417.12,22,2,2,2,222,New Customers,30-45
+CUST10357,Mohanlal Sastry,dhillonshray@hotmail.com,Not Disclosed,22,Pune,Single,2,2021-02-22,45,26103.07,25,4,4,4,444,Champions,<30
+CUST10358,Rania Rao,keya08@yahoo.com,Female,39,Jaipur,Single,3,2024-04-01,50,24876.32,25,4,4,4,444,Champions,30-45
+CUST10359,Rania Sibal,rvarma@sachdev.biz,Female,41,Hyderabad,Married,3,2024-06-26,20,17738.94,20,2,2,1,221,New Customers,30-45
+CUST10360,Jivika Wadhwa,somanivana@jayaraman.com,Male,55,Delhi,Widowed,1,2023-09-14,35,23409.420000000002,23,3,3,3,333,Loyal Customers,45-60
+CUST10361,Hridaan Swamy,ptata@gmail.com,Not Disclosed,44,Chennai,Divorced,3,2022-04-18,95,28268.23,28,5,5,5,555,Champions,30-45
+CUST10362,Samaira Din,soodvihaan@hotmail.com,Not Disclosed,41,Mumbai,Single,2,2023-12-05,48,26819.54,22,4,2,4,424,Potential Loyalists,30-45
+CUST10363,Hunar Edwin,khegde@yogi.net,Male,70,Ahmedabad,Widowed,1,2024-07-28,44,17746.75,16,4,1,1,411,Others,60+
+CUST10364,Lavanya Raja,vihaan70@hotmail.com,Not Disclosed,68,Lucknow,Single,0,2024-05-18,8,18791.39,21,1,2,2,122,Lost,60+
+CUST10365,Indranil Upadhyay,hdevan@yahoo.com,Male,75,Ahmedabad,Widowed,0,2023-09-20,6,28124.5,26,1,4,5,145,At Risk,60+
+CUST10366,Oorja Sunder,dborra@srinivas.com,Female,53,Ahmedabad,Married,0,2020-08-11,36,20667.09,27,3,4,2,342,Others,45-60
+CUST10367,Emir Tandon,mannnirvi@bains.biz,Female,64,Pune,Single,2,2021-07-13,71,29118.91,22,4,2,5,425,Potential Loyalists,60+
+CUST10368,Farhan Bakshi,indranilloyal@hotmail.com,Female,68,Hyderabad,Single,1,2021-03-13,55,24060.63,24,4,3,3,433,Loyal Customers,60+
+CUST10369,Sumer Thakkar,shaanlanka@gmail.com,Female,36,Jaipur,Married,0,2022-08-28,71,20250.28,22,4,2,2,422,Potential Loyalists,30-45
+CUST10370,Abram Swamy,kardhruv@gmail.com,Female,69,Mumbai,Single,4,2024-07-13,10,20439.829999999998,26,1,4,2,142,At Risk,60+
+CUST10371,Seher Dey,amira61@hotmail.com,Female,65,Bangalore,Single,2,2024-04-12,6,23626.18,28,1,5,3,153,At Risk,60+
+CUST10372,Nayantara Salvi,goswamirhea@batta-kale.com,Not Disclosed,60,Jaipur,Widowed,0,2021-07-11,125,23762.14,23,5,3,3,533,Loyal Customers,45-60
+CUST10373,Umang Date,miraya28@rana.com,Male,32,Delhi,Married,4,2021-09-28,66,35231.82,33,4,5,5,455,Champions,30-45
+CUST10374,Taimur Rege,vsami@yogi-ratta.info,Not Disclosed,25,Ahmedabad,Widowed,0,2023-08-02,23,24714.77,20,2,2,4,224,Others,<30
+CUST10375,Baiju Lalla,kiaan33@hotmail.com,Male,41,Pune,Divorced,3,2021-01-18,104,24832.72,23,5,3,4,534,Loyal Customers,30-45
+CUST10376,Shray Dave,gsom@kala.com,Not Disclosed,64,Chennai,Married,3,2021-08-09,174,27013.37,25,5,4,4,544,Champions,60+
+CUST10377,Divyansh Choudhary,jjain@sama.net,Not Disclosed,18,Mumbai,Widowed,0,2022-10-09,28,23338.16,24,3,3,3,333,Loyal Customers,<30
+CUST10378,Ishaan Chokshi,renee55@hotmail.com,Female,75,Jaipur,Single,0,2023-05-30,14,16664.32,22,2,2,1,221,New Customers,60+
+CUST10379,Aniruddh Choudhry,xyohannan@hotmail.com,Male,51,Bangalore,Single,3,2021-08-24,19,20526.54,18,2,1,2,212,New Customers,45-60
+CUST10380,Shlok Anand,pranayrout@bansal.com,Male,31,Pune,Divorced,0,2022-11-08,117,32543.13,31,5,5,5,555,Champions,30-45
+CUST10381,Suhana Talwar,agatevihaan@mangat-gala.biz,Not Disclosed,41,Chennai,Widowed,3,2023-07-03,5,27119.18,29,1,5,4,154,At Risk,30-45
+CUST10382,Yuvaan Shroff,mannat16@gmail.com,Male,30,Lucknow,Married,0,2022-01-12,112,22476.77,19,5,1,3,513,Others,<30
+CUST10383,Shray Som,berakimaya@hotmail.com,Not Disclosed,37,Lucknow,Widowed,2,2023-03-07,33,23207.57,31,3,5,3,353,Loyal Customers,30-45
+CUST10384,Misha Shroff,svala@iyengar-rastogi.com,Female,19,Pune,Single,3,2020-10-20,14,27666.87,21,2,2,4,224,Others,<30
+CUST10385,Indrans Setty,zsampath@bawa-jayaraman.com,Not Disclosed,58,Lucknow,Widowed,2,2020-11-11,99,22158.34,27,5,4,3,543,Loyal Customers,45-60
+CUST10386,Madhav Sagar,vasarohan@yahoo.com,Not Disclosed,39,Chennai,Single,2,2024-05-28,1,27051.63,30,1,5,4,154,At Risk,30-45
+CUST10387,Ojas Tata,bbhavsar@yahoo.com,Male,62,Jaipur,Widowed,4,2023-12-05,6,26692.97,23,1,3,4,134,At Risk,60+
+CUST10388,Lakshay Dewan,damini94@doctor-deo.com,Not Disclosed,54,Jaipur,Widowed,1,2022-10-16,22,32326.49,28,2,5,5,255,At Risk,45-60
+CUST10389,Yasmin Wason,pranayhari@hotmail.com,Not Disclosed,54,Pune,Widowed,0,2021-10-22,179,24616.37,28,5,5,4,554,Champions,45-60
+CUST10390,Saira Chad,batrakeya@gmail.com,Female,61,Jaipur,Divorced,1,2022-06-15,82,16754.84,22,5,2,1,521,Others,60+
+CUST10391,Baiju Lal,johalyashvi@gmail.com,Female,56,Jaipur,Divorced,0,2024-07-13,45,18750.09,18,4,1,2,412,Others,45-60
+CUST10392,Hansh Ahluwalia,mishagoel@hotmail.com,Male,56,Mumbai,Widowed,1,2023-03-15,12,24657.03,26,2,4,4,244,At Risk,45-60
+CUST10393,Elakshi Barman,advik70@walla.com,Female,32,Jaipur,Widowed,0,2022-06-04,5,24115.670000000002,26,1,4,3,143,At Risk,30-45
+CUST10394,Vritika Kala,azadbahl@yahoo.com,Female,39,Bangalore,Widowed,3,2023-12-30,34,26865.66,28,3,5,4,354,Loyal Customers,30-45
+CUST10395,Vaibhav Dhawan,contractorshamik@yahoo.com,Male,59,Delhi,Divorced,3,2022-03-27,53,28101.46,27,4,4,5,445,Champions,45-60
+CUST10396,Kismat Chaudry,yashvi62@kuruvilla.com,Male,34,Jaipur,Single,1,2023-01-28,50,14578.1,14,4,1,1,411,Others,30-45
+CUST10397,Parinaaz Hora,vanya04@de.com,Male,38,Chennai,Divorced,1,2023-12-27,83,26216.31,26,5,4,4,544,Champions,30-45
+CUST10398,Tanya Kapur,divyansh40@yahoo.com,Male,31,Delhi,Divorced,0,2023-03-17,4,29351.969999999998,31,1,5,5,155,At Risk,30-45
+CUST10399,Ira Chawla,samrayakshit@ahluwalia.com,Not Disclosed,22,Bangalore,Divorced,4,2021-04-27,144,15190.41,23,5,3,1,531,Others,<30
+CUST10400,Shlok Bava,kismatsarin@gmail.com,Not Disclosed,39,Hyderabad,Single,4,2020-08-02,84,20398.02,24,5,3,2,532,Potential Loyalists,30-45
+CUST10401,Vanya Sarna,choudharyyuvaan@hotmail.com,Not Disclosed,62,Bangalore,Divorced,1,2020-11-18,51,24080.4,22,4,2,3,423,Potential Loyalists,60+
+CUST10402,Eva Johal,shankarvanya@sachdeva-johal.com,Female,44,Jaipur,Widowed,2,2020-08-25,187,26339.09,27,5,4,4,544,Champions,30-45
+CUST10403,Divij Ramesh,nitya43@hotmail.com,Male,30,Kolkata,Married,2,2021-04-02,39,23504.260000000002,20,3,2,3,323,Others,<30
+CUST10404,Vidur Dasgupta,riya24@yahoo.com,Not Disclosed,33,Hyderabad,Married,2,2023-02-09,18,31433.0,35,2,5,5,255,At Risk,30-45
+CUST10405,Damini Rege,heersahota@ben.com,Female,31,Lucknow,Married,2,2023-01-13,43,27028.29,24,4,3,4,434,Loyal Customers,30-45
+CUST10406,Madhup Bumb,vidurdeep@cherian-ravi.com,Female,65,Chennai,Single,2,2021-04-17,97,21082.18,23,5,3,2,532,Potential Loyalists,60+
+CUST10407,Tiya Babu,tkamdar@jain-sood.com,Not Disclosed,37,Pune,Widowed,0,2022-03-04,34,25355.18,20,3,2,4,324,Big Spenders,30-45
+CUST10408,Reyansh Dey,jranganathan@hotmail.com,Male,19,Chennai,Widowed,1,2023-03-15,12,22734.39,26,2,4,3,243,At Risk,<30
+CUST10409,Vidur Balasubramanian,dhanuk73@venkatesh-dube.com,Not Disclosed,49,Chennai,Single,1,2022-02-02,29,17380.76,16,3,1,1,311,Others,45-60
+CUST10410,Aarush Thakkar,btandon@yahoo.com,Female,69,Jaipur,Divorced,1,2021-09-19,205,15991.630000000001,18,5,1,1,511,Others,60+
+CUST10411,Mahika Sem,seherkalita@yahoo.com,Female,66,Delhi,Widowed,0,2023-10-13,43,27754.78,23,4,3,4,434,Loyal Customers,60+
+CUST10412,Dhanush Seth,tejas96@halder.biz,Male,73,Lucknow,Divorced,1,2021-10-21,17,19488.42,16,2,1,2,212,New Customers,60+
+CUST10413,Mahika Chaudhry,prishakhare@chadha-sankar.com,Male,21,Delhi,Married,0,2020-10-17,134,37479.39,36,5,5,5,555,Champions,<30
+CUST10414,Rania Ghose,xtailor@gmail.com,Male,74,Delhi,Married,0,2021-07-05,119,23287.03,21,5,2,3,523,Potential Loyalists,60+
+CUST10415,Jivika Chanda,pihudash@bhasin.net,Male,45,Mumbai,Single,0,2022-03-08,11,18333.37,23,1,3,2,132,At Risk,30-45
+CUST10416,Umang Dhar,dugalnirvi@borah.com,Male,52,Chennai,Divorced,2,2020-08-18,8,28346.89,35,1,5,5,155,At Risk,45-60
+CUST10417,Priyansh Singhal,yohannankartik@ramachandran.com,Not Disclosed,18,Jaipur,Married,1,2023-01-30,20,20034.13,18,2,1,2,212,New Customers,<30
+CUST10418,Hrishita Vala,lavanyabalay@yahoo.com,Female,36,Lucknow,Divorced,3,2023-11-25,117,17236.89,17,5,1,1,511,Others,30-45
+CUST10419,Devansh Sanghvi,kanavramaswamy@sarma.com,Male,31,Kolkata,Single,0,2021-08-10,51,20050.72,17,4,1,2,412,Others,30-45
+CUST10420,Dhanush Gokhale,nirvimander@yahoo.com,Not Disclosed,62,Pune,Single,1,2020-11-07,30,23912.59,26,3,4,3,343,Loyal Customers,60+
+CUST10421,Gokul Malhotra,bshanker@choudhury-kapadia.net,Female,25,Mumbai,Married,1,2022-06-02,3,24908.09,21,1,2,4,124,Lost,<30
+CUST10422,Oorja Mander,sinhabadal@venkataraman-ranganathan.info,Male,66,Bangalore,Married,0,2022-03-29,9,23196.78,24,1,3,3,133,At Risk,60+
+CUST10423,Kaira Grover,amirachaudhry@hotmail.com,Female,75,Delhi,Single,2,2021-04-05,44,25191.12,22,4,2,4,424,Potential Loyalists,60+
+CUST10424,Kismat Chawla,raunakbera@basu.biz,Not Disclosed,27,Delhi,Widowed,0,2022-08-09,19,19527.69,17,2,1,2,212,New Customers,<30
+CUST10425,Oorja Toor,dsekhon@yahoo.com,Male,65,Ahmedabad,Divorced,0,2022-10-02,60,19349.67,16,4,1,2,412,Others,60+
+CUST10426,Sahil Shenoy,aaryahiahuja@yahoo.com,Male,46,Hyderabad,Married,2,2021-06-10,43,25563.51,29,4,5,4,454,Champions,45-60
+CUST10427,Nirvaan Sabharwal,dishanibal@halder.com,Male,21,Hyderabad,Single,2,2021-12-16,96,24153.420000000002,22,5,2,3,523,Potential Loyalists,<30
+CUST10428,Aradhya Gour,roykimaya@hotmail.com,Male,23,Hyderabad,Divorced,2,2022-10-06,114,20971.62,17,5,1,2,512,Others,<30
+CUST10429,Miraan Lad,upadhyayneysa@sabharwal.com,Not Disclosed,45,Hyderabad,Single,2,2022-06-06,16,28064.88,24,2,3,5,235,At Risk,30-45
+CUST10430,Advika Trivedi,jbora@krishnan-halder.com,Male,38,Chennai,Divorced,1,2024-03-05,22,29706.95,27,2,4,5,245,At Risk,30-45
+CUST10431,Devansh Sarin,ngoswami@gmail.com,Not Disclosed,73,Lucknow,Widowed,3,2022-10-03,55,26226.870000000003,25,4,4,4,444,Champions,60+
+CUST10432,Madhup Khosla,miraanchaudhari@sama.com,Female,23,Kolkata,Married,2,2022-10-30,1,18556.52,15,1,1,2,112,Lost,<30
+CUST10433,Zaina Som,raunakbhatia@ahluwalia.org,Female,74,Chennai,Married,2,2024-07-11,11,23058.28,30,1,5,3,153,At Risk,60+
+CUST10434,Yashvi Lalla,fmadan@sen-boase.net,Male,33,Delhi,Widowed,3,2021-11-30,9,25160.510000000002,24,1,3,4,134,At Risk,30-45
+CUST10435,Samar Sama,mshenoy@yahoo.com,Not Disclosed,37,Chennai,Divorced,1,2020-10-04,46,16235.18,18,4,1,1,411,Others,30-45
+CUST10436,Vihaan Goswami,lakshit95@tiwari-rattan.com,Female,40,Chennai,Widowed,4,2022-07-19,82,32200.6,25,5,4,5,545,Champions,30-45
+CUST10437,Yashvi Upadhyay,rati24@hotmail.com,Not Disclosed,19,Chennai,Married,1,2020-12-23,25,25631.36,24,3,3,4,334,Loyal Customers,<30
+CUST10438,Shanaya Gala,arnavbal@gmail.com,Female,54,Bangalore,Married,0,2024-07-24,24,32246.83,33,2,5,5,255,At Risk,45-60
+CUST10439,Kismat Kashyap,deolyasmin@hotmail.com,Not Disclosed,58,Bangalore,Married,0,2023-08-01,16,29537.18,31,2,5,5,255,At Risk,45-60
+CUST10440,Chirag Sekhon,bhattacharyyasuhana@ghose-deshmukh.info,Not Disclosed,34,Hyderabad,Divorced,2,2022-10-23,6,26186.9,25,1,4,4,144,At Risk,30-45
+CUST10441,Faiyaz Dua,manikyalad@hotmail.com,Male,35,Pune,Divorced,0,2020-09-27,105,28492.0,26,5,4,5,545,Champions,30-45
+CUST10442,Aayush Agate,wsathe@wali.com,Male,53,Chennai,Widowed,3,2022-06-06,113,21343.66,26,5,4,2,542,Potential Loyalists,45-60
+CUST10443,Ivana Rout,yakshitboase@saran.com,Male,61,Chennai,Single,2,2023-02-12,39,19456.51,18,3,1,2,312,Others,60+
+CUST10444,Mahika Wali,urvibadal@dewan.com,Female,52,Mumbai,Single,2,2021-02-15,32,18653.94,22,3,2,2,322,Others,45-60
+CUST10445,Rati Tiwari,suramani@kalita.com,Male,59,Chennai,Divorced,1,2024-05-25,1,29240.35,23,1,3,5,135,At Risk,45-60
+CUST10446,Vihaan Kala,sgill@yahoo.com,Female,72,Jaipur,Divorced,1,2023-06-27,37,21858.27,28,3,5,3,353,Loyal Customers,60+
+CUST10447,Aayush Dugal,krishbiju@baral.info,Male,29,Kolkata,Single,4,2021-05-13,22,22560.22,20,2,2,3,223,Others,<30
+CUST10448,Hansh Sawhney,lchoudhry@hotmail.com,Not Disclosed,63,Hyderabad,Single,0,2020-08-01,3,25991.5,28,1,5,4,154,At Risk,60+
+CUST10449,Samaira Chopra,walishalv@bassi-bhat.net,Female,38,Lucknow,Widowed,0,2021-10-01,20,18602.19,23,2,3,2,232,At Risk,30-45
+CUST10450,Shalv Sunder,kalekaira@yahoo.com,Male,32,Ahmedabad,Single,0,2021-07-22,11,22862.25,22,1,2,3,123,Lost,30-45
+CUST10451,Jivin Ranganathan,kabir79@kari.com,Male,32,Chennai,Divorced,0,2024-05-15,27,27303.59,25,3,4,4,344,Loyal Customers,30-45
+CUST10452,Nitya Ravel,vihaan59@yahoo.com,Male,22,Ahmedabad,Widowed,3,2020-11-04,41,29971.16,23,3,3,5,335,Loyal Customers,<30
+CUST10453,Kanav Warrior,eshani75@hotmail.com,Female,55,Jaipur,Widowed,0,2022-05-28,30,12774.609999999999,16,3,1,1,311,Others,45-60
+CUST10454,Shalv Agrawal,zain23@sastry-kumar.org,Female,30,Kolkata,Single,0,2021-01-30,141,19800.59,19,5,1,2,512,Others,<30
+CUST10455,Kavya Dubey,deolnavya@bhalla.net,Male,66,Bangalore,Married,2,2020-10-08,115,18971.83,20,5,2,2,522,Potential Loyalists,60+
+CUST10456,Anahita Kale,bhaminiswaminathan@krishnamurthy-dhingra.biz,Male,28,Pune,Divorced,0,2022-07-01,31,15241.98,16,3,1,1,311,Others,<30
+CUST10457,Jivika Kamdar,aaryahikohli@rajagopal.com,Female,23,Lucknow,Married,2,2024-05-31,43,22527.05,23,4,3,3,433,Loyal Customers,<30
+CUST10458,Biju Sastry,advikghose@dar.net,Male,23,Pune,Married,2,2022-11-02,6,21081.510000000002,25,1,4,2,142,At Risk,<30
+CUST10459,Ivana Johal,aaravchoudhary@lata.com,Male,54,Mumbai,Married,1,2022-10-24,23,28834.02,28,2,5,5,255,At Risk,45-60
+CUST10460,Yasmin Arora,manikya55@biswas.biz,Female,53,Mumbai,Single,3,2024-03-25,4,12543.38,15,1,1,1,111,Lost,45-60
+CUST10461,Ira Balasubramanian,settymyra@yahoo.com,Female,53,Chennai,Married,1,2022-02-01,17,23804.16,24,2,3,3,233,At Risk,45-60
+CUST10462,Pari Shanker,yashvi67@yahoo.com,Not Disclosed,38,Lucknow,Divorced,2,2021-11-24,110,24681.54,26,5,4,4,544,Champions,30-45
+CUST10463,Keya Sankar,kaladevansh@bhatia.com,Not Disclosed,23,Pune,Divorced,1,2023-06-08,52,22830.17,27,4,4,3,443,Loyal Customers,<30
+CUST10464,Devansh Cherian,ritvikdhar@yahoo.com,Male,34,Delhi,Divorced,0,2021-08-14,34,32103.72,29,3,5,5,355,Loyal Customers,30-45
+CUST10465,Rasha Kashyap,shaaniruddh@gmail.com,Male,38,Hyderabad,Divorced,0,2022-07-21,84,30303.12,29,5,5,5,555,Champions,30-45
+CUST10466,Lagan Sem,pchanda@hotmail.com,Female,73,Ahmedabad,Widowed,1,2021-11-08,67,17344.29,20,4,2,1,421,Others,60+
+CUST10467,Uthkarsh Uppal,nishithkoshy@gmail.com,Male,36,Bangalore,Divorced,0,2024-07-02,55,19161.75,19,4,1,2,412,Others,30-45
+CUST10468,Anika Koshy,rajagopalansaira@hotmail.com,Female,45,Lucknow,Married,0,2021-10-26,13,20915.600000000002,18,2,1,2,212,New Customers,30-45
+CUST10469,Lakshit Sankaran,achokshi@gmail.com,Not Disclosed,64,Lucknow,Widowed,1,2023-06-04,19,21606.38,23,2,3,3,233,At Risk,60+
+CUST10470,Tara Sarna,hgrover@gmail.com,Not Disclosed,34,Bangalore,Divorced,0,2023-09-04,15,34133.31,32,2,5,5,255,At Risk,30-45
+CUST10471,Drishya Sawhney,manneurvi@sibal.net,Male,43,Chennai,Married,1,2023-12-23,81,18770.56,18,5,1,2,512,Others,30-45
+CUST10472,Neysa Dubey,bbhavsar@hotmail.com,Female,27,Pune,Married,0,2024-05-24,34,13423.43,17,3,1,1,311,Others,<30
+CUST10473,Oorja Sandal,xsawhney@gmail.com,Not Disclosed,33,Delhi,Single,0,2022-06-29,74,24677.95,26,4,4,4,444,Champions,30-45
+CUST10474,Lagan Sami,rtandon@hotmail.com,Not Disclosed,48,Lucknow,Widowed,2,2023-11-03,98,24243.05,20,5,2,3,523,Potential Loyalists,45-60
+CUST10475,Raunak Devi,bhaktashaan@yahoo.com,Not Disclosed,68,Bangalore,Widowed,1,2023-03-24,15,30735.6,29,2,5,5,255,At Risk,60+
+CUST10476,Ela Tara,nishith22@sathe-walia.com,Female,53,Jaipur,Widowed,0,2024-06-12,2,24745.04,26,1,4,4,144,At Risk,45-60
+CUST10477,Pari Kala,himmatbanik@gmail.com,Not Disclosed,41,Mumbai,Divorced,2,2022-04-29,42,38015.78,36,3,5,5,355,Loyal Customers,30-45
+CUST10478,Lavanya Seth,riaanramakrishnan@yahoo.com,Female,33,Jaipur,Divorced,3,2021-04-11,28,22823.079999999998,22,3,2,3,323,Others,30-45
+CUST10479,Raunak Borde,vdhaliwal@dora.net,Female,66,Chennai,Married,0,2021-09-18,17,25175.66,28,2,5,4,254,At Risk,60+
+CUST10480,Divit Wason,btandon@balakrishnan.com,Female,71,Mumbai,Divorced,1,2020-11-01,52,23622.42,23,4,3,3,433,Loyal Customers,60+
+CUST10481,Ryan Suresh,geraraunak@hotmail.com,Male,54,Pune,Widowed,0,2021-11-18,58,26353.94,31,4,5,4,454,Champions,45-60
+CUST10482,Prerak Shere,reyanshkumer@yahoo.com,Male,74,Lucknow,Single,1,2023-03-30,11,17982.43,19,1,1,1,111,Lost,60+
+CUST10483,Rasha Badami,veeredwin@thaman-suri.info,Male,50,Hyderabad,Widowed,4,2022-12-08,9,23208.07,20,1,2,3,123,Lost,45-60
+CUST10484,Anay Shroff,magarnavya@hotmail.com,Male,38,Ahmedabad,Married,4,2021-04-15,274,12344.25,14,5,1,1,511,Others,30-45
+CUST10485,Aaina Madan,swamymiraya@hotmail.com,Female,26,Bangalore,Divorced,0,2022-12-29,62,21361.2,20,4,2,3,423,Potential Loyalists,<30
+CUST10486,Emir Bhatia,fbasu@goel.com,Not Disclosed,45,Pune,Widowed,1,2024-03-23,36,27366.989999999998,31,3,5,4,354,Loyal Customers,30-45
+CUST10487,Anaya Vig,aayushbhatt@yahoo.com,Female,28,Jaipur,Divorced,1,2024-02-04,5,19988.829999999998,25,1,4,2,142,At Risk,<30
+CUST10488,Adah Raval,jkara@divan.com,Male,36,Bangalore,Single,2,2022-07-30,44,23454.68,28,4,5,3,453,Loyal Customers,30-45
+CUST10489,Indrans Gill,karitaran@rajagopalan.com,Female,25,Kolkata,Widowed,2,2024-05-25,12,22598.11,24,2,3,3,233,At Risk,<30
+CUST10490,Lagan Ramachandran,ishaangandhi@gmail.com,Not Disclosed,65,Bangalore,Widowed,1,2023-12-23,50,20227.77,24,4,3,2,432,Potential Loyalists,60+
+CUST10491,Ivana Manne,dmandal@kapadia.net,Not Disclosed,46,Chennai,Married,0,2021-06-18,109,25702.49,29,5,5,4,554,Champions,45-60
+CUST10492,Zoya Chahal,chahalryan@sachdev.com,Not Disclosed,24,Delhi,Widowed,0,2023-11-06,7,12918.77,18,1,1,1,111,Lost,<30
+CUST10493,Rania Dara,dharmajanzachariah@yahoo.com,Female,29,Pune,Widowed,1,2021-06-16,11,26996.29,24,1,3,4,134,At Risk,<30
+CUST10494,Vihaan Ramaswamy,rkeer@yahoo.com,Not Disclosed,20,Lucknow,Married,3,2022-09-23,108,21793.38,17,5,1,3,513,Others,<30
+CUST10495,Uthkarsh Badami,advikachopra@gmail.com,Not Disclosed,46,Pune,Widowed,0,2021-02-08,29,24676.8,25,3,4,4,344,Loyal Customers,45-60
+CUST10496,Ahana  Ratti,rhea32@rajagopalan-soman.org,Female,67,Bangalore,Divorced,0,2024-05-29,10,14000.5,17,1,1,1,111,Lost,60+
+CUST10497,Shalv Bose,qzacharia@bansal.com,Male,53,Mumbai,Single,4,2024-05-28,3,26715.21,20,1,2,4,124,Lost,45-60
+CUST10498,Dhruv Vyas,biju36@sanghvi-dewan.com,Not Disclosed,32,Pune,Divorced,1,2023-05-29,68,24983.58,28,4,5,4,454,Champions,30-45
+CUST10499,Yuvraj  Baria,kakaralisha@yahoo.com,Not Disclosed,24,Kolkata,Single,2,2021-06-05,39,24403.17,34,3,5,4,354,Loyal Customers,<30
+CUST10500,Aayush Zachariah,yuvraj-sinha@saxena.com,Female,44,Pune,Divorced,1,2022-09-17,20,19431.67,20,2,2,2,222,New Customers,30-45
+CUST10501,Amani Wali,rati94@dubey.info,Male,43,Jaipur,Widowed,3,2024-04-06,8,24102.59,24,1,3,3,133,At Risk,30-45
+CUST10502,Reyansh Buch,anay24@dada.org,Not Disclosed,65,Pune,Married,1,2020-10-18,427,16877.14,13,5,1,1,511,Others,60+
+CUST10503,Kartik Barad,aniruddh32@chahal.org,Female,26,Lucknow,Married,0,2022-09-05,52,32895.08,27,4,4,5,445,Champions,<30
+CUST10504,Aarav Tandon,nehmat24@baria.com,Male,74,Pune,Married,0,2022-07-13,54,18183.96,23,4,3,2,432,Potential Loyalists,60+
+CUST10505,Inaaya  Bir,rohanthaker@hotmail.com,Male,45,Mumbai,Widowed,0,2022-03-06,37,29488.329999999998,23,3,3,5,335,Loyal Customers,30-45
+CUST10506,Elakshi Bedi,oiyengar@aurora.info,Female,53,Chennai,Divorced,1,2021-02-01,76,22851.21,23,4,3,3,433,Loyal Customers,45-60
+CUST10507,Ritvik Saran,lgour@gmail.com,Female,49,Pune,Divorced,2,2023-04-21,68,24291.75,22,4,2,3,423,Potential Loyalists,45-60
+CUST10508,Ela Shan,adahsarkar@chaudhary.info,Female,59,Lucknow,Widowed,1,2022-08-09,96,24280.63,25,5,4,3,543,Loyal Customers,45-60
+CUST10509,Nirvaan Thakur,darshit03@gandhi-shan.biz,Female,29,Delhi,Widowed,0,2021-07-17,60,23895.11,22,4,2,3,423,Potential Loyalists,<30
+CUST10510,Amira Wable,arnav34@gmail.com,Male,47,Delhi,Single,1,2022-06-27,59,44367.33,30,4,5,5,455,Champions,45-60
+CUST10511,Vedika Sidhu,shaanbehl@gmail.com,Female,70,Pune,Divorced,2,2024-02-02,7,27033.89,26,1,4,4,144,At Risk,60+
+CUST10512,Kiaan Sekhon,romiltandon@yahoo.com,Female,53,Lucknow,Widowed,1,2024-04-09,46,19954.23,17,4,1,2,412,Others,45-60
+CUST10513,Mehul Atwal,ryan21@ghosh.com,Not Disclosed,43,Jaipur,Married,0,2023-05-19,9,22078.86,21,1,2,3,123,Lost,30-45
+CUST10514,Ayesha Kari,kismatgill@barman.com,Not Disclosed,30,Lucknow,Married,0,2023-07-13,23,16999.03,18,2,1,1,211,New Customers,<30
+CUST10515,Hiran Shenoy,wraj@gmail.com,Female,75,Lucknow,Single,1,2021-05-31,11,18359.62,20,1,2,2,122,Lost,60+
+CUST10516,Zaina Varghese,rati55@yahoo.com,Male,40,Chennai,Divorced,2,2020-09-24,53,22987.87,26,4,4,3,443,Loyal Customers,30-45
+CUST10517,Farhan Hari,bhavin87@yahoo.com,Not Disclosed,73,Kolkata,Married,2,2024-04-29,87,33278.66,29,5,5,5,555,Champions,60+
+CUST10518,Samar Tiwari,jmannan@hotmail.com,Female,32,Chennai,Widowed,4,2020-10-18,151,24997.65,23,5,3,4,534,Loyal Customers,30-45
+CUST10519,Diya Bail,kartik53@hotmail.com,Female,60,Bangalore,Single,1,2021-07-06,235,23211.21,19,5,1,3,513,Others,45-60
+CUST10520,Aaina Kade,divijdayal@gmail.com,Female,56,Lucknow,Married,0,2021-01-18,32,23725.59,20,3,2,3,323,Others,45-60
+CUST10521,Kaira Vohra,btara@bora.net,Not Disclosed,38,Kolkata,Married,2,2023-07-25,4,15914.19,22,1,2,1,121,Lost,30-45
+CUST10522,Zain Badami,hvarma@hotmail.com,Female,24,Kolkata,Single,2,2021-03-01,40,25568.46,28,3,5,4,354,Loyal Customers,<30
+CUST10523,Emir Sankaran,gkata@hotmail.com,Male,69,Kolkata,Married,0,2020-10-06,202,20184.81,20,5,2,2,522,Potential Loyalists,60+
+CUST10524,Zoya Verma,vasaprerak@hotmail.com,Not Disclosed,70,Bangalore,Divorced,0,2022-11-03,59,25484.43,28,4,5,4,454,Champions,60+
+CUST10525,Pranay Gaba,inaaya-bala@dugar.com,Female,38,Jaipur,Divorced,3,2020-11-02,11,27808.66,27,1,4,4,144,At Risk,30-45
+CUST10526,Shanaya Jhaveri,lalabhamini@balay.com,Male,30,Bangalore,Married,4,2021-04-09,116,29998.61,25,5,4,5,545,Champions,<30
+CUST10527,Yuvaan Ramesh,charvi81@hotmail.com,Male,27,Delhi,Widowed,1,2023-11-25,15,21700.690000000002,27,2,4,3,243,At Risk,<30
+CUST10528,Mohanlal Basu,anvi82@sarna.biz,Male,45,Bangalore,Divorced,2,2021-02-23,48,24042.98,24,4,3,3,433,Loyal Customers,30-45
+CUST10529,Dhanuk Gokhale,samaira55@yahoo.com,Not Disclosed,62,Chennai,Married,0,2023-10-22,28,25212.18,24,3,3,4,334,Loyal Customers,60+
+CUST10530,Anika Kanda,misha62@gmail.com,Male,32,Hyderabad,Widowed,1,2022-04-21,76,24954.25,22,4,2,4,424,Potential Loyalists,30-45
+CUST10531,Ojas Ray,emani@hotmail.com,Male,59,Delhi,Married,1,2023-07-22,96,12053.75,17,5,1,1,511,Others,45-60
+CUST10532,Eva Swaminathan,bhamini27@gmail.com,Not Disclosed,27,Hyderabad,Divorced,2,2020-10-12,94,24668.05,27,5,4,4,544,Champions,<30
+CUST10533,Indrajit Vora,vanya18@raj.biz,Female,75,Chennai,Single,1,2024-05-09,20,24125.46,28,2,5,3,253,At Risk,60+
+CUST10534,Romil Deshmukh,vartyneysa@gola-baria.com,Male,51,Pune,Married,2,2023-03-27,88,28466.57,29,5,5,5,555,Champions,45-60
+CUST10535,Amira Taneja,fdate@borde.com,Male,62,Mumbai,Divorced,0,2022-08-22,4,17192.4,16,1,1,1,111,Lost,60+
+CUST10536,Gatik Bhakta,anayaratti@hotmail.com,Not Disclosed,30,Delhi,Single,2,2023-09-14,46,24791.83,26,4,4,4,444,Champions,<30
+CUST10537,Eshani Brahmbhatt,bijuchandra@hotmail.com,Male,73,Kolkata,Divorced,0,2023-12-22,13,27334.83,23,2,3,4,234,At Risk,60+
+CUST10538,Nayantara Shanker,cdhillon@yahoo.com,Not Disclosed,54,Jaipur,Widowed,2,2022-04-09,52,31479.15,25,4,4,5,445,Champions,45-60
+CUST10539,Anay Mani,stak@gmail.com,Male,45,Chennai,Divorced,3,2020-12-01,42,31484.36,30,3,5,5,355,Loyal Customers,30-45
+CUST10540,Stuvan Venkatesh,pihu41@hotmail.com,Female,44,Kolkata,Divorced,4,2021-11-07,14,16489.12,19,2,1,1,211,New Customers,30-45
+CUST10541,Reyansh Chaudry,advik45@iyengar.com,Male,30,Delhi,Married,0,2022-02-26,5,22662.22,24,1,3,3,133,At Risk,<30
+CUST10542,Umang Bora,benuthkarsh@yahoo.com,Male,33,Kolkata,Widowed,2,2022-11-24,134,16713.27,18,5,1,1,511,Others,30-45
+CUST10543,Aarush Walla,himmatdugar@gmail.com,Female,54,Delhi,Single,0,2024-06-25,28,23594.01,21,3,2,3,323,Others,45-60
+CUST10544,Jayan Zachariah,madhup39@gmail.com,Not Disclosed,18,Mumbai,Widowed,3,2021-06-10,248,28246.6,24,5,3,5,535,Loyal Customers,<30
+CUST10545,Yashvi Devi,xkeer@yahoo.com,Female,44,Bangalore,Married,2,2023-02-22,7,17520.05,14,1,1,1,111,Lost,30-45
+CUST10546,Mamooty Gera,ehsaan68@saran.com,Not Disclosed,41,Kolkata,Divorced,1,2022-05-16,30,25082.3,24,3,3,4,334,Loyal Customers,30-45
+CUST10547,Darshit Sura,fwagle@yahoo.com,Male,50,Pune,Married,2,2024-06-05,24,18639.33,20,2,2,2,222,New Customers,45-60
+CUST10548,Inaaya  Baria,samiha81@hotmail.com,Not Disclosed,41,Lucknow,Single,1,2021-12-05,13,19975.7,17,2,1,2,212,New Customers,30-45
+CUST10549,Zeeshan Batra,bbava@mallick.com,Male,58,Delhi,Widowed,4,2023-01-02,64,21075.489999999998,22,4,2,2,422,Potential Loyalists,45-60
+CUST10550,Divyansh Baria,sandhukeya@hotmail.com,Male,41,Bangalore,Married,0,2022-12-15,77,27790.88,27,4,4,4,444,Champions,30-45
+CUST10551,Zeeshan Sanghvi,jhaverineelofar@yahoo.com,Female,58,Mumbai,Widowed,0,2023-04-24,57,19818.31,20,4,2,2,422,Potential Loyalists,45-60
+CUST10552,Advika Issac,eramakrishnan@venkataraman-bera.com,Not Disclosed,45,Delhi,Widowed,1,2021-11-07,27,23023.15,20,3,2,3,323,Others,30-45
+CUST10553,Prerak Sahni,sridharivan@sahni.com,Not Disclosed,24,Bangalore,Widowed,2,2021-10-03,13,35846.25,37,2,5,5,255,At Risk,<30
+CUST10554,Ishaan Kade,kaleira@hotmail.com,Not Disclosed,44,Hyderabad,Widowed,1,2022-01-04,2,15361.02,20,1,2,1,121,Lost,30-45
+CUST10555,Parinaaz Hora,birnakul@kibe.com,Not Disclosed,38,Pune,Single,0,2022-04-14,40,24450.46,22,3,2,4,324,Big Spenders,30-45
+CUST10556,Manjari Boase,tarabora@dani.com,Not Disclosed,57,Chennai,Single,0,2021-02-13,27,22419.6,27,3,4,3,343,Loyal Customers,45-60
+CUST10557,Lakshit Konda,anaya68@gmail.com,Male,74,Hyderabad,Single,2,2024-07-05,9,20179.88,20,1,2,2,122,Lost,60+
+CUST10558,Rhea Gupta,sodhieshani@yahoo.com,Not Disclosed,23,Mumbai,Widowed,3,2022-05-12,7,24174.97,25,1,4,3,143,At Risk,<30
+CUST10559,Aaryahi Dave,wmander@gour.com,Male,23,Ahmedabad,Widowed,2,2021-01-13,45,21259.74,22,4,2,2,422,Potential Loyalists,<30
+CUST10560,Riya Gill,agopal@hotmail.com,Not Disclosed,45,Jaipur,Divorced,1,2024-04-20,25,33199.47,30,3,5,5,355,Loyal Customers,30-45
+CUST10561,Charvi Guha,thakeraradhya@singh-dalia.com,Male,60,Lucknow,Single,0,2022-09-23,19,31260.399999999998,27,2,4,5,245,At Risk,45-60
+CUST10562,Dhanuk Sehgal,obhat@karpe.com,Not Disclosed,48,Pune,Married,0,2020-08-28,6,19145.15,23,1,3,2,132,At Risk,45-60
+CUST10563,Tanya Khalsa,mehulbains@yahoo.com,Female,67,Pune,Widowed,1,2021-04-15,69,15543.01,16,4,1,1,411,Others,60+
+CUST10564,Inaaya  Malhotra,nirvaan04@yahoo.com,Female,50,Bangalore,Widowed,1,2023-05-02,41,19895.95,18,3,1,2,312,Others,45-60
+CUST10565,Kiaan Chana,davejayan@yahoo.com,Not Disclosed,55,Bangalore,Divorced,1,2021-03-17,60,20021.5,22,4,2,2,422,Potential Loyalists,45-60
+CUST10566,Shanaya Sodhi,zwalia@batra.com,Not Disclosed,43,Kolkata,Widowed,1,2023-03-30,163,19702.72,16,5,1,2,512,Others,30-45
+CUST10567,Mehul Agarwal,irastogi@hans-borde.com,Not Disclosed,32,Ahmedabad,Single,0,2023-02-21,50,23612.49,22,4,2,3,423,Potential Loyalists,30-45
+CUST10568,Aarav Vora,onkarchhabra@aggarwal.com,Male,49,Delhi,Divorced,0,2022-01-12,94,15812.0,19,5,1,1,511,Others,45-60
+CUST10569,Raunak Choudhry,ramakrishnanindrajit@chakraborty.biz,Female,68,Jaipur,Divorced,0,2024-03-22,12,14672.46,16,2,1,1,211,New Customers,60+
+CUST10570,Advika Dyal,granganathan@sathe-dhar.org,Not Disclosed,26,Pune,Single,1,2021-03-29,144,30538.07,29,5,5,5,555,Champions,<30
+CUST10571,Nirvaan Bhandari,gcontractor@yahoo.com,Not Disclosed,54,Chennai,Divorced,0,2021-02-12,230,23517.22,22,5,2,3,523,Potential Loyalists,45-60
+CUST10572,Oorja Dua,navya64@andra.com,Male,52,Hyderabad,Divorced,2,2024-07-27,3,30455.41,29,1,5,5,155,At Risk,45-60
+CUST10573,Bhavin Gade,badalaniruddh@dasgupta-aurora.com,Male,68,Pune,Divorced,0,2022-09-16,18,21276.72,22,2,2,2,222,New Customers,60+
+CUST10574,Shayak Raj,jayantgill@shere.com,Female,64,Jaipur,Single,1,2022-08-17,26,22792.88,21,3,2,3,323,Others,60+
+CUST10575,Kartik Kashyap,nghose@hotmail.com,Male,24,Chennai,Widowed,0,2021-03-10,103,20804.21,23,5,3,2,532,Potential Loyalists,<30
+CUST10576,Nishith Dada,dhruvsetty@lal-goyal.com,Female,51,Chennai,Single,0,2024-04-04,8,17731.35,23,1,3,1,131,At Risk,45-60
+CUST10577,Nishith Mall,zoya12@hotmail.com,Male,57,Delhi,Single,0,2021-02-03,19,15729.6,18,2,1,1,211,New Customers,45-60
+CUST10578,Anahi Bir,kalladevansh@bose-mangal.com,Not Disclosed,37,Hyderabad,Married,1,2022-04-21,120,23728.62,23,5,3,3,533,Loyal Customers,30-45
+CUST10579,Onkar Ramachandran,gbhargava@hotmail.com,Male,73,Hyderabad,Single,1,2024-07-05,2,24865.74,23,1,3,4,134,At Risk,60+
+CUST10580,Anya Sahni,khushiganesan@gmail.com,Not Disclosed,71,Lucknow,Widowed,0,2022-02-07,64,19595.85,25,4,4,2,442,Potential Loyalists,60+
+CUST10581,Shaan Ray,sahotayuvaan@dyal-swamy.com,Male,36,Lucknow,Married,0,2023-03-30,37,28350.1,26,3,4,5,345,Loyal Customers,30-45
+CUST10582,Lagan Grover,jivika00@hotmail.com,Not Disclosed,34,Mumbai,Single,1,2023-04-05,43,19920.72,19,4,1,2,412,Others,30-45
+CUST10583,Amani Krish,onkar92@bhargava-dutt.com,Female,71,Pune,Widowed,1,2022-07-11,33,23355.49,26,3,4,3,343,Loyal Customers,60+
+CUST10584,Kiaan Sibal,acherian@kunda.com,Male,29,Hyderabad,Single,3,2022-01-10,28,22445.21,27,3,4,3,343,Loyal Customers,<30
+CUST10585,Aniruddh Hans,nghose@issac.com,Female,72,Kolkata,Divorced,3,2024-04-28,19,28453.03,24,2,3,5,235,At Risk,60+
+CUST10586,Tanya Chaudhry,xgulati@hotmail.com,Not Disclosed,27,Bangalore,Married,0,2023-10-29,30,24996.27,28,3,5,4,354,Loyal Customers,<30
+CUST10587,Ivana Viswanathan,anay68@bora-chada.org,Male,41,Delhi,Widowed,1,2021-12-04,2,25311.36,24,1,3,4,134,At Risk,30-45
+CUST10588,Yuvraj  Bhandari,fbala@gmail.com,Male,32,Ahmedabad,Married,2,2021-09-05,17,17384.76,17,2,1,1,211,New Customers,30-45
+CUST10589,Madhup Zacharia,rramaswamy@hotmail.com,Not Disclosed,51,Kolkata,Single,1,2024-07-27,2,19556.47,23,1,3,2,132,At Risk,45-60
+CUST10590,Taimur Saxena,yuvraj-biswas@gmail.com,Not Disclosed,75,Lucknow,Single,1,2024-02-06,2,27265.04,26,1,4,4,144,At Risk,60+
+CUST10591,Misha Seth,kanavmander@mander.com,Female,67,Ahmedabad,Married,2,2023-06-25,14,23548.72,27,2,4,3,243,At Risk,60+
+CUST10592,Trisha Chawla,kundashamik@hotmail.com,Not Disclosed,58,Kolkata,Single,2,2024-07-25,63,21528.53,21,4,2,3,423,Potential Loyalists,45-60
+CUST10593,Stuvan Sahni,stuvansoman@yahoo.com,Female,47,Jaipur,Single,0,2023-10-16,22,22820.48,23,2,3,3,233,At Risk,45-60
+CUST10594,Anahita Bhatt,divij78@yahoo.com,Female,59,Delhi,Divorced,2,2020-11-16,23,14673.51,17,2,1,1,211,New Customers,45-60
+CUST10595,Devansh Karnik,preraksarraf@hotmail.com,Female,30,Jaipur,Divorced,0,2022-03-07,29,28613.32,24,3,3,5,335,Loyal Customers,<30
+CUST10596,Vardaniya Lalla,wdani@hotmail.com,Male,49,Lucknow,Single,0,2024-06-20,1,16789.79,24,1,3,1,131,At Risk,45-60
+CUST10597,Advika Lad,zarasekhon@srivastava.com,Female,63,Lucknow,Widowed,1,2022-07-22,144,19349.46,19,5,1,2,512,Others,60+
+CUST10598,Tejas Choudhury,xgola@bahl.com,Female,71,Mumbai,Widowed,3,2021-07-14,29,21105.84,24,3,3,2,332,Others,60+
+CUST10599,Shray Sahota,diya47@gmail.com,Male,45,Bangalore,Single,0,2022-03-24,22,17156.22,18,2,1,1,211,New Customers,30-45
+CUST10600,Ivana Desai,aaryahimallick@hotmail.com,Not Disclosed,45,Delhi,Married,1,2020-10-19,76,24352.04,30,4,5,3,453,Loyal Customers,30-45
+CUST10601,Nirvaan Dewan,rhayre@vala.org,Female,56,Kolkata,Divorced,1,2023-12-16,19,22498.58,23,2,3,3,233,At Risk,45-60
+CUST10602,Zain Choudhury,gbhat@vaidya-mane.net,Male,38,Bangalore,Divorced,3,2022-08-22,24,21378.57,23,2,3,3,233,At Risk,30-45
+CUST10603,Dhanush Edwin,mbath@kannan.com,Not Disclosed,19,Jaipur,Single,2,2020-12-05,109,15887.32,20,5,2,1,521,Others,<30
+CUST10604,Chirag Sundaram,bhaminibhatnagar@kota.com,Female,34,Delhi,Divorced,0,2023-06-29,60,12536.369999999999,13,4,1,1,411,Others,30-45
+CUST10605,Inaaya  Ravel,varmamishti@mammen.com,Male,44,Kolkata,Single,1,2020-08-15,92,16138.39,12,5,1,1,511,Others,30-45
+CUST10606,Hrishita Sama,shethvaibhav@bhatti.biz,Not Disclosed,26,Jaipur,Widowed,1,2020-09-19,42,22397.899999999998,23,3,3,3,333,Loyal Customers,<30
+CUST10607,Lavanya Sood,shaan36@yahoo.com,Male,50,Mumbai,Widowed,2,2022-12-08,37,23266.59,22,3,2,3,323,Others,45-60
+CUST10608,Tara Wason,sacharnitara@hotmail.com,Female,56,Delhi,Married,2,2020-11-05,402,21884.45,20,5,2,3,523,Potential Loyalists,45-60
+CUST10609,Romil Setty,zahuja@sagar.com,Female,23,Ahmedabad,Single,1,2024-06-26,65,18714.42,21,4,2,2,422,Potential Loyalists,<30
+CUST10610,Chirag Kadakia,dishani02@yahoo.com,Male,22,Delhi,Single,1,2024-02-28,5,22279.89,23,1,3,3,133,At Risk,<30
+CUST10611,Indrajit Mahal,priyanshmadan@kothari.org,Female,37,Delhi,Widowed,2,2022-08-21,2,24531.18,28,1,5,4,154,At Risk,30-45
+CUST10612,Hunar Dugar,mdeshpande@yahoo.com,Female,72,Bangalore,Divorced,3,2022-07-02,5,23820.03,22,1,2,3,123,Lost,60+
+CUST10613,Renee Zacharia,aptemadhav@hotmail.com,Male,38,Lucknow,Married,4,2023-02-03,11,28177.510000000002,28,1,5,5,155,At Risk,30-45
+CUST10614,Manjari Samra,wmallick@gmail.com,Not Disclosed,67,Hyderabad,Divorced,4,2021-07-10,1,13111.06,17,1,1,1,111,Lost,60+
+CUST10615,Vanya Dada,samairachaudhry@hotmail.com,Female,71,Jaipur,Divorced,2,2020-12-04,69,21038.27,23,4,3,2,432,Potential Loyalists,60+
+CUST10616,Diya Buch,navya49@sanghvi.com,Not Disclosed,18,Pune,Divorced,3,2021-04-09,119,31208.46,32,5,5,5,555,Champions,<30
+CUST10617,Tiya Chauhan,lbhatti@agarwal-chand.com,Male,27,Hyderabad,Married,0,2022-05-18,41,32881.78,29,3,5,5,355,Loyal Customers,<30
+CUST10618,Trisha Chopra,zainadara@yahoo.com,Female,30,Bangalore,Married,2,2021-09-13,51,19407.46,25,4,4,2,442,Potential Loyalists,<30
+CUST10619,Zeeshan Mangal,chadakeya@gmail.com,Not Disclosed,22,Chennai,Widowed,3,2024-05-14,35,21559.690000000002,18,3,1,3,313,Others,<30
+CUST10620,Divyansh Balakrishnan,irahegde@hotmail.com,Male,28,Mumbai,Widowed,0,2024-01-19,21,20337.14,22,2,2,2,222,New Customers,<30
+CUST10621,Khushi Singhal,drishyatank@krish.com,Male,62,Ahmedabad,Married,2,2022-02-08,45,33635.49,30,4,5,5,455,Champions,60+
+CUST10622,Jivin Subramanian,stuvan73@hotmail.com,Female,50,Pune,Divorced,0,2024-06-07,38,12896.12,16,3,1,1,311,Others,45-60
+CUST10623,Sana Contractor,nakul64@dalal.info,Male,70,Hyderabad,Single,1,2023-07-28,134,16212.51,14,5,1,1,511,Others,60+
+CUST10624,Zara Chaudhuri,azad33@hotmail.com,Not Disclosed,70,Jaipur,Widowed,0,2024-04-24,9,16533.53,16,1,1,1,111,Lost,60+
+CUST10625,Gatik Magar,gkala@rama-karnik.com,Male,47,Kolkata,Single,0,2021-03-27,165,21189.38,24,5,3,2,532,Potential Loyalists,45-60
+CUST10626,Biju Hayre,adahlall@kumer.net,Male,37,Hyderabad,Divorced,3,2023-12-17,117,28290.13,28,5,5,5,555,Champions,30-45
+CUST10627,Suhana Grover,rravi@kumar-sunder.com,Female,40,Ahmedabad,Divorced,0,2023-02-21,17,21236.11,20,2,2,2,222,New Customers,30-45
+CUST10628,Aaina Saini,dhanukvarma@basak.biz,Male,58,Pune,Single,0,2021-11-26,76,22541.4,25,4,4,3,443,Loyal Customers,45-60
+CUST10629,Bhamini Rege,hegdeshray@yahoo.com,Female,46,Ahmedabad,Single,0,2023-09-22,28,15593.1,18,3,1,1,311,Others,45-60
+CUST10630,Zeeshan Chaudry,mehul22@sahni-vohra.net,Male,30,Mumbai,Married,2,2024-06-30,6,20283.27,22,1,2,2,122,Lost,<30
+CUST10631,Manjari Mannan,tsandal@yahoo.com,Male,57,Lucknow,Single,1,2024-05-25,7,16194.66,22,1,2,1,121,Lost,45-60
+CUST10632,Pranay Comar,vsharma@gmail.com,Not Disclosed,19,Jaipur,Married,2,2023-09-13,5,31576.39,28,1,5,5,155,At Risk,<30
+CUST10633,Yasmin Soni,nishithgoda@sehgal.info,Male,71,Jaipur,Single,0,2023-01-13,16,30800.47,30,2,5,5,255,At Risk,60+
+CUST10634,Ojas Ahuja,hridaan51@gmail.com,Male,19,Bangalore,Divorced,3,2023-10-13,16,18866.87,22,2,2,2,222,New Customers,<30
+CUST10635,Yakshit Rana,hcherian@tak.com,Male,51,Jaipur,Divorced,0,2022-03-21,76,29768.69,24,4,3,5,435,Loyal Customers,45-60
+CUST10636,Anahita Som,buchtanya@gmail.com,Male,52,Ahmedabad,Divorced,0,2022-03-20,47,16537.71,16,4,1,1,411,Others,45-60
+CUST10637,Bhavin Mandal,tanyakrish@yahoo.com,Not Disclosed,42,Kolkata,Widowed,0,2024-06-05,49,20622.71,23,4,3,2,432,Potential Loyalists,30-45
+CUST10638,Lavanya Balasubramanian,anvidey@hotmail.com,Male,66,Pune,Widowed,0,2021-06-07,143,19509.19,20,5,2,2,522,Potential Loyalists,60+
+CUST10639,Dishani Sharaf,brahmbhattkartik@gmail.com,Not Disclosed,31,Jaipur,Single,1,2021-05-02,149,16082.87,18,5,1,1,511,Others,30-45
+CUST10640,Aaina Saran,neelofararora@dhillon-kumer.com,Female,27,Hyderabad,Divorced,1,2024-02-21,33,23559.63,21,3,2,3,323,Others,<30
+CUST10641,Jayan Dixit,zoya79@kumar.com,Female,64,Lucknow,Widowed,2,2021-10-14,8,28951.6,28,1,5,5,155,At Risk,60+
+CUST10642,Shaan Gokhale,samravivaan@gmail.com,Male,69,Mumbai,Married,1,2021-06-13,142,22796.35,24,5,3,3,533,Loyal Customers,60+
+CUST10643,Indrans Goda,arnavsaraf@yahoo.com,Not Disclosed,42,Jaipur,Divorced,1,2021-03-30,24,16071.88,19,2,1,1,211,New Customers,30-45
+CUST10644,Shray Ghose,nakuljohal@balay.com,Male,30,Ahmedabad,Widowed,4,2022-07-15,12,26997.56,30,2,5,4,254,At Risk,<30
+CUST10645,Shamik Rau,korpalrenee@yahoo.com,Not Disclosed,19,Lucknow,Divorced,0,2022-11-07,10,12004.05,13,1,1,1,111,Lost,<30
+CUST10646,Aarna Hari,jhanvi63@samra.com,Not Disclosed,65,Jaipur,Married,0,2021-02-20,375,21739.28,25,5,4,3,543,Loyal Customers,60+
+CUST10647,Shlok Golla,dhanush08@yahoo.com,Male,48,Bangalore,Single,2,2021-08-11,3,23233.06,25,1,4,3,143,At Risk,45-60
+CUST10648,Baiju Golla,manjarirout@hotmail.com,Female,74,Ahmedabad,Single,0,2021-03-30,55,32054.27,31,4,5,5,455,Champions,60+
+CUST10649,Abram Khare,bsodhi@gmail.com,Male,71,Mumbai,Widowed,1,2020-10-03,26,33119.41,29,3,5,5,355,Loyal Customers,60+
+CUST10650,Ehsaan Dara,manikya01@gmail.com,Male,70,Hyderabad,Widowed,2,2022-04-20,10,21513.15,25,1,4,3,143,At Risk,60+
+CUST10651,Bhamini Shroff,faiyaz72@yahoo.com,Male,73,Kolkata,Married,0,2022-05-27,157,18382.13,21,5,2,2,522,Potential Loyalists,60+
+CUST10652,Khushi Madan,dixitkiaan@yahoo.com,Female,50,Pune,Widowed,1,2021-11-27,102,26380.56,29,5,5,4,554,Champions,45-60
+CUST10653,Tanya Agarwal,ebhakta@yahoo.com,Female,45,Lucknow,Married,2,2022-07-20,24,18189.23,19,2,1,2,212,New Customers,30-45
+CUST10654,Arnav Boase,vardaniya56@gmail.com,Female,34,Kolkata,Divorced,1,2022-01-28,17,18645.46,20,2,2,2,222,New Customers,30-45
+CUST10655,Anahita Trivedi,kismatcontractor@yahoo.com,Not Disclosed,32,Kolkata,Single,0,2024-04-03,4,18436.4,20,1,2,2,122,Lost,30-45
+CUST10656,Inaaya  Issac,tara19@venkatesh-bumb.org,Not Disclosed,58,Chennai,Single,0,2021-04-08,66,23431.77,27,4,4,3,443,Loyal Customers,45-60
+CUST10657,Navya Boase,mallickrati@khatri.net,Not Disclosed,49,Mumbai,Widowed,3,2022-06-05,18,31941.739999999998,28,2,5,5,255,At Risk,45-60
+CUST10658,Azad Yogi,rswamy@hotmail.com,Not Disclosed,59,Hyderabad,Widowed,1,2021-02-19,74,24166.19,28,4,5,3,453,Loyal Customers,45-60
+CUST10659,Onkar Mane,ela59@gmail.com,Male,74,Chennai,Single,0,2024-04-21,24,20372.5,23,2,3,2,232,At Risk,60+
+CUST10660,Madhup Kothari,samaira31@hotmail.com,Not Disclosed,51,Lucknow,Divorced,0,2021-05-04,53,31340.24,30,4,5,5,455,Champions,45-60
+CUST10661,Drishya Som,anvi72@samra.net,Male,45,Ahmedabad,Widowed,2,2021-09-05,1,22575.08,22,1,2,3,123,Lost,30-45
+CUST10662,Badal Mangal,chirag89@gmail.com,Female,65,Kolkata,Single,4,2024-06-11,1,15678.99,18,1,1,1,111,Lost,60+
+CUST10663,Hunar Sangha,myra39@yahoo.com,Female,25,Ahmedabad,Divorced,0,2023-02-03,93,17384.0,22,5,2,1,521,Others,<30
+CUST10664,Aarav Singhal,ananddhanuk@srinivasan-golla.biz,Male,38,Jaipur,Married,0,2023-05-31,42,15592.0,21,3,2,1,321,Others,30-45
+CUST10665,Aarush Taneja,dasbiju@yahoo.com,Not Disclosed,23,Bangalore,Widowed,1,2021-05-16,49,14124.56,19,4,1,1,411,Others,<30
+CUST10666,Umang Majumdar,olal@sharma.info,Not Disclosed,70,Pune,Widowed,2,2021-01-19,195,18803.96,22,5,2,2,522,Potential Loyalists,60+
+CUST10667,Anahita Dalal,kalitakismat@hotmail.com,Male,54,Pune,Single,3,2023-04-06,213,16455.95,17,5,1,1,511,Others,45-60
+CUST10668,Shray Kurian,vivaankothari@yahoo.com,Male,21,Mumbai,Divorced,0,2022-03-05,50,15743.57,14,4,1,1,411,Others,<30
+CUST10669,Biju Jani,prishabora@yahoo.com,Female,29,Jaipur,Widowed,2,2022-02-22,36,27169.03,29,3,5,4,354,Loyal Customers,<30
+CUST10670,Ayesha Jhaveri,walitejas@yahoo.com,Not Disclosed,39,Mumbai,Widowed,3,2021-05-21,37,14649.880000000001,16,3,1,1,311,Others,30-45
+CUST10671,Vardaniya Sheth,saanviroy@gmail.com,Male,72,Hyderabad,Divorced,2,2022-02-12,111,39763.52,34,5,5,5,555,Champions,60+
+CUST10672,Badal Sha,shamik01@gmail.com,Not Disclosed,21,Mumbai,Widowed,1,2024-04-16,15,14824.689999999999,16,2,1,1,211,New Customers,<30
+CUST10673,Samar Cheema,achaudhary@bhatti-dugal.org,Female,27,Bangalore,Married,0,2021-02-27,6,21166.77,19,1,1,2,112,Lost,<30
+CUST10674,Anay Mangat,babusiya@johal.com,Male,29,Chennai,Single,1,2021-05-09,78,21250.829999999998,20,5,2,2,522,Potential Loyalists,<30
+CUST10675,Bhavin Yadav,rsetty@keer.info,Not Disclosed,51,Bangalore,Single,2,2022-10-03,78,28631.71,29,5,5,5,555,Champions,45-60
+CUST10676,Jivika Garg,manikya03@chauhan.biz,Male,70,Ahmedabad,Widowed,0,2023-04-29,74,31814.14,25,4,4,5,445,Champions,60+
+CUST10677,Myra Bhatt,aradhyavohra@raj.com,Male,56,Kolkata,Widowed,1,2023-10-12,9,24491.39,26,1,4,4,144,At Risk,45-60
+CUST10678,Veer Kapadia,ramachandranzara@yahoo.com,Female,35,Pune,Divorced,1,2023-06-29,55,23609.4,27,4,4,3,443,Loyal Customers,30-45
+CUST10679,Trisha Balan,jayant89@bandi-shere.com,Male,23,Pune,Widowed,0,2023-04-15,26,23396.93,27,3,4,3,343,Loyal Customers,<30
+CUST10680,Rasha Tak,inaaya-ray@gmail.com,Female,28,Jaipur,Married,0,2020-12-10,22,17161.31,17,2,1,1,211,New Customers,<30
+CUST10681,Hunar Krishna,nityasoman@randhawa.com,Female,65,Pune,Divorced,4,2021-11-30,49,19884.08,22,4,2,2,422,Potential Loyalists,60+
+CUST10682,Tanya Madan,rbajwa@hotmail.com,Not Disclosed,47,Kolkata,Widowed,0,2020-11-01,8,22836.18,21,1,2,3,123,Lost,45-60
+CUST10683,Amira Karan,taimur71@balay-chahal.com,Female,52,Jaipur,Married,0,2023-05-01,22,29468.39,23,2,3,5,235,At Risk,45-60
+CUST10684,Kashvi Hora,indranskohli@ghosh.info,Not Disclosed,22,Ahmedabad,Widowed,0,2023-10-17,29,24484.940000000002,29,3,5,4,354,Loyal Customers,<30
+CUST10685,Saira Venkatesh,divit41@bhardwaj.net,Not Disclosed,34,Pune,Single,0,2023-02-10,196,18089.59,19,5,1,1,511,Others,30-45
+CUST10686,Advika Dhawan,jraja@yahoo.com,Female,25,Hyderabad,Married,0,2022-06-14,62,17468.920000000002,22,4,2,1,421,Others,<30
+CUST10687,Dhanuk Thaker,mandervivaan@hotmail.com,Male,29,Delhi,Single,1,2023-01-19,50,23117.41,22,4,2,3,423,Potential Loyalists,<30
+CUST10688,Keya Sachdeva,gatik94@yahoo.com,Not Disclosed,59,Pune,Single,0,2021-02-15,70,17971.02,19,4,1,1,411,Others,45-60
+CUST10689,Vidur Madan,isandal@bail-sanghvi.com,Male,51,Pune,Married,1,2021-07-08,221,22525.14,21,5,2,3,523,Potential Loyalists,45-60
+CUST10690,Shayak Baria,iben@gmail.com,Female,25,Chennai,Divorced,3,2023-11-03,43,29243.81,18,4,1,5,415,Others,<30
+CUST10691,Anahi Jani,bbadami@hegde.org,Not Disclosed,42,Ahmedabad,Single,0,2022-08-23,110,17465.64,15,5,1,1,511,Others,30-45
+CUST10692,Mannat Ranganathan,uthkarshbala@rout.info,Not Disclosed,46,Jaipur,Divorced,4,2023-06-20,19,24359.38,24,2,3,4,234,At Risk,45-60
+CUST10693,Drishya Tank,zaina23@hotmail.com,Female,63,Kolkata,Divorced,0,2020-08-04,22,21159.38,22,2,2,2,222,New Customers,60+
+CUST10694,Nitara Chaudhry,urvi74@yahoo.com,Male,39,Chennai,Widowed,0,2022-06-13,22,22082.65,22,2,2,3,223,Others,30-45
+CUST10695,Oorja Bassi,lmangal@dara.com,Not Disclosed,68,Chennai,Married,0,2021-04-05,34,24610.36,27,3,4,4,344,Loyal Customers,60+
+CUST10696,Faiyaz Sarin,omannan@hotmail.com,Not Disclosed,71,Delhi,Married,1,2022-06-27,37,40035.479999999996,30,3,5,5,355,Loyal Customers,60+
+CUST10697,Manikya Bhalla,kdass@dora.com,Not Disclosed,32,Chennai,Married,2,2020-12-24,46,31834.3,30,4,5,5,455,Champions,30-45
+CUST10698,Nirvaan Kale,ebandi@jayaraman-shankar.net,Female,28,Bangalore,Widowed,1,2023-02-22,29,15353.75,15,3,1,1,311,Others,<30
+CUST10699,Renee Bhat,tripathipriyansh@yahoo.com,Female,63,Mumbai,Single,0,2023-01-11,21,23599.96,27,2,4,3,243,At Risk,60+
+CUST10700,Divij Magar,hayrepari@yahoo.com,Male,27,Hyderabad,Widowed,1,2024-03-13,5,19200.63,17,1,1,2,112,Lost,<30
+CUST10701,Siya Sampath,qbail@sandal-hayre.biz,Not Disclosed,35,Kolkata,Divorced,3,2024-07-23,17,21017.69,29,2,5,2,252,At Risk,30-45
+CUST10702,Riya Sandhu,devanshkrish@cheema-bera.info,Female,23,Lucknow,Single,2,2022-07-01,101,24844.72,21,5,2,4,524,Potential Loyalists,<30
+CUST10703,Myra Jain,suraranbir@gmail.com,Not Disclosed,65,Pune,Married,0,2021-05-30,55,23938.16,21,4,2,3,423,Potential Loyalists,60+
+CUST10704,Aradhya Shanker,urvirajan@gmail.com,Male,19,Bangalore,Divorced,0,2023-11-16,12,25490.21,23,2,3,4,234,At Risk,<30
+CUST10705,Dishani Guha,mahalarnav@yahoo.com,Female,43,Jaipur,Divorced,2,2023-09-27,60,20825.95,18,4,1,2,412,Others,30-45
+CUST10706,Anahita Buch,sacharrohan@hotmail.com,Not Disclosed,34,Jaipur,Widowed,3,2023-08-07,22,22626.21,22,2,2,3,223,Others,30-45
+CUST10707,Mannat Lala,arhaan71@gmail.com,Not Disclosed,43,Pune,Married,0,2021-10-26,18,19681.27,22,2,2,2,222,New Customers,30-45
+CUST10708,Rati Rau,alia06@gmail.com,Not Disclosed,38,Bangalore,Single,2,2023-09-21,15,20574.71,19,2,1,2,212,New Customers,30-45
+CUST10709,Shray Chaudhry,nirvaanbiswas@gmail.com,Female,58,Mumbai,Divorced,1,2021-10-30,11,21982.81,23,1,3,3,133,At Risk,45-60
+CUST10710,Divit Toor,saksham79@ram.biz,Not Disclosed,73,Mumbai,Widowed,1,2024-02-18,13,25599.91,31,2,5,4,254,At Risk,60+
+CUST10711,Miraan Shah,joshiishita@choudhury-mallick.com,Male,66,Jaipur,Divorced,3,2023-01-12,77,19527.1,19,4,1,2,412,Others,60+
+CUST10712,Yuvraj  Sundaram,hanshkamdar@gmail.com,Not Disclosed,68,Kolkata,Single,1,2023-02-10,49,13125.9,17,4,1,1,411,Others,60+
+CUST10713,Saira Talwar,sumerkeer@yahoo.com,Not Disclosed,46,Delhi,Widowed,1,2021-01-14,107,27701.45,23,5,3,4,534,Loyal Customers,45-60
+CUST10714,Khushi Vasa,prerakbanik@hotmail.com,Male,72,Lucknow,Single,0,2023-11-05,12,13656.35,16,2,1,1,211,New Customers,60+
+CUST10715,Nirvaan Sagar,urvi22@kashyap.com,Not Disclosed,56,Kolkata,Divorced,0,2024-03-20,70,21794.46,24,4,3,3,433,Loyal Customers,45-60
+CUST10716,Romil Shah,fkapoor@bala.biz,Not Disclosed,20,Bangalore,Divorced,1,2024-04-04,4,30340.3,31,1,5,5,155,At Risk,<30
+CUST10717,Neysa Sengupta,ranbir25@hotmail.com,Not Disclosed,44,Bangalore,Widowed,2,2024-01-06,4,25772.54,26,1,4,4,144,At Risk,30-45
+CUST10718,Divij Shukla,ratigopal@gmail.com,Not Disclosed,69,Lucknow,Divorced,2,2024-03-05,1,23920.64,21,1,2,3,123,Lost,60+
+CUST10719,Nirvaan Saxena,parinaaz84@yogi.com,Male,67,Kolkata,Widowed,3,2024-07-23,3,28344.0,23,1,3,5,135,At Risk,60+
+CUST10720,Veer Sahni,tellaaarav@chakraborty.com,Female,28,Pune,Widowed,1,2024-06-30,4,35168.68,35,1,5,5,155,At Risk,<30
+CUST10721,Drishya Biswas,advikavala@hotmail.com,Not Disclosed,75,Bangalore,Single,2,2022-02-28,7,23759.260000000002,22,1,2,3,123,Lost,60+
+CUST10722,Renee Khatri,nirvi21@bhavsar.biz,Not Disclosed,43,Ahmedabad,Widowed,1,2020-12-23,49,27985.489999999998,27,4,4,5,445,Champions,30-45
+CUST10723,Mamooty Sur,bakshilavanya@gmail.com,Male,69,Ahmedabad,Married,2,2021-04-05,16,12865.45,19,2,1,1,211,New Customers,60+
+CUST10724,Abram Tak,mannatguha@yahoo.com,Female,42,Ahmedabad,Single,0,2020-08-07,2,27372.260000000002,24,1,3,4,134,At Risk,30-45
+CUST10725,Umang Ranganathan,waglezoya@hotmail.com,Male,25,Delhi,Widowed,3,2021-03-17,12,21723.2,20,2,2,3,223,Others,<30
+CUST10726,Shayak Agrawal,msen@gmail.com,Female,33,Hyderabad,Single,0,2023-03-12,8,21731.940000000002,22,1,2,3,123,Lost,30-45
+CUST10727,Anahita Dada,chokshikismat@boase.com,Male,70,Delhi,Single,1,2020-09-01,115,26903.26,26,5,4,4,544,Champions,60+
+CUST10728,Elakshi Lal,alishababu@chahal.com,Male,20,Ahmedabad,Widowed,0,2023-08-14,16,18860.99,18,2,1,2,212,New Customers,<30
+CUST10729,Dishani Contractor,grewaljayan@salvi.net,Female,25,Mumbai,Widowed,4,2024-03-26,36,5052.6900000000005,6,3,1,1,311,Others,<30
+CUST10730,Shray Sheth,kiara31@bail.net,Not Disclosed,57,Hyderabad,Married,1,2021-08-15,69,21032.57,20,4,2,2,422,Potential Loyalists,45-60
+CUST10731,Zain Dutt,soodneelofar@hotmail.com,Female,74,Bangalore,Divorced,2,2021-05-02,77,20494.81,21,4,2,2,422,Potential Loyalists,60+
+CUST10732,Samar Khare,yakshitbawa@savant-raval.biz,Female,70,Jaipur,Married,1,2021-08-17,83,28783.09,29,5,5,5,555,Champions,60+
+CUST10733,Tanya Sood,sanenavya@gmail.com,Male,58,Mumbai,Single,2,2022-09-04,36,25890.21,26,3,4,4,344,Loyal Customers,45-60
+CUST10734,Myra Dave,bandizoya@hotmail.com,Female,24,Pune,Single,0,2023-10-25,35,30211.98,30,3,5,5,355,Loyal Customers,<30
+CUST10735,Advik Swaminathan,raghav93@mammen-borah.info,Not Disclosed,21,Ahmedabad,Divorced,1,2023-05-29,1,26650.39,27,1,4,4,144,At Risk,<30
+CUST10736,Diya Hora,reddybiju@yahoo.com,Not Disclosed,66,Ahmedabad,Widowed,1,2020-10-01,134,20743.1,22,5,2,2,522,Potential Loyalists,60+
+CUST10737,Samiha Chaudhari,ckeer@hotmail.com,Not Disclosed,32,Ahmedabad,Married,1,2022-01-29,105,18145.49,18,5,1,1,511,Others,30-45
+CUST10738,Samarth Talwar,zsetty@gmail.com,Not Disclosed,19,Chennai,Widowed,0,2021-05-21,305,20721.98,23,5,3,2,532,Potential Loyalists,<30
+CUST10739,Raghav Raja,emir56@hotmail.com,Female,69,Bangalore,Divorced,0,2024-02-25,3,19495.04,20,1,2,2,122,Lost,60+
+CUST10740,Anvi Choudhury,elarajan@rao-kaur.com,Female,66,Hyderabad,Divorced,3,2022-05-18,41,12293.19,15,3,1,1,311,Others,60+
+CUST10741,Yakshit Verma,kanav79@hotmail.com,Male,53,Hyderabad,Single,0,2021-01-04,71,17101.420000000002,23,4,3,1,431,Others,45-60
+CUST10742,Kimaya Guha,daniayesha@deep-rana.com,Female,40,Bangalore,Widowed,2,2023-06-10,10,29405.57,26,1,4,5,145,At Risk,30-45
+CUST10743,Vihaan Bawa,shrayvarkey@chahal.org,Female,75,Lucknow,Widowed,0,2020-12-08,13,28176.99,33,2,5,5,255,At Risk,60+
+CUST10744,Neelofar Som,kdhawan@trivedi.com,Male,51,Ahmedabad,Divorced,0,2021-01-24,33,23672.84,27,3,4,3,343,Loyal Customers,45-60
+CUST10745,Ira Chandran,nirvi73@ratta-sarma.com,Male,32,Hyderabad,Widowed,1,2023-02-28,3,14006.23,21,1,2,1,121,Lost,30-45
+CUST10746,Jayesh Gandhi,nehmatwalla@bhakta-gade.org,Male,49,Jaipur,Married,1,2023-08-17,15,26244.16,25,2,4,4,244,At Risk,45-60
+CUST10747,Jayesh Agarwal,ymadan@yahoo.com,Female,23,Jaipur,Divorced,0,2022-12-28,4,23626.81,28,1,5,3,153,At Risk,<30
+CUST10748,Shayak Bir,mahika72@yahoo.com,Male,45,Kolkata,Married,0,2020-11-04,34,20786.26,21,3,2,2,322,Others,30-45
+CUST10749,Anaya Batra,mallickkabir@yahoo.com,Female,70,Jaipur,Married,0,2021-05-22,6,29668.14,27,1,4,5,145,At Risk,60+
+CUST10750,Ritvik Sharaf,taimursachar@hotmail.com,Female,41,Chennai,Divorced,2,2021-11-21,104,15889.87,19,5,1,1,511,Others,30-45
+CUST10751,Hrishita Vohra,qchokshi@loke.com,Not Disclosed,66,Bangalore,Single,0,2021-02-16,137,10536.13,15,5,1,1,511,Others,60+
+CUST10752,Vedika Ganguly,odass@balakrishnan.com,Female,75,Lucknow,Single,1,2021-02-19,10,35848.37,28,1,5,5,155,At Risk,60+
+CUST10753,Armaan Sharaf,chadoorja@gmail.com,Male,62,Hyderabad,Divorced,2,2023-02-22,20,21106.39,19,2,1,2,212,New Customers,60+
+CUST10754,Zoya Tara,saneyuvraj@sridhar-ratti.com,Male,22,Kolkata,Divorced,2,2021-05-22,11,25437.19,21,1,2,4,124,Lost,<30
+CUST10755,Elakshi Dara,aaryahi20@ranganathan.com,Female,66,Hyderabad,Single,4,2022-11-16,54,31264.05,28,4,5,5,455,Champions,60+
+CUST10756,Shlok Hans,wkhalsa@hotmail.com,Female,39,Lucknow,Divorced,2,2020-09-14,40,16036.83,12,3,1,1,311,Others,30-45
+CUST10757,Adira Balasubramanian,jiya00@yahoo.com,Female,39,Lucknow,Divorced,3,2023-05-12,4,25630.57,26,1,4,4,144,At Risk,30-45
+CUST10758,Kiaan Hayer,mamootykurian@gmail.com,Not Disclosed,35,Chennai,Single,3,2021-03-25,19,29783.06,30,2,5,5,255,At Risk,30-45
+CUST10759,Zain Karan,azadmander@issac.net,Female,32,Lucknow,Widowed,3,2024-02-16,5,23852.67,27,1,4,3,143,At Risk,30-45
+CUST10760,Hridaan Sule,ngara@sagar.com,Female,63,Mumbai,Single,1,2022-04-14,213,18263.42,18,5,1,2,512,Others,60+
+CUST10761,Krish Gill,royaaryahi@hotmail.com,Male,28,Lucknow,Married,2,2020-09-18,152,25740.25,24,5,3,4,534,Loyal Customers,<30
+CUST10762,Adira Din,vritikakurian@bhavsar.com,Not Disclosed,46,Ahmedabad,Widowed,1,2024-06-08,34,19526.58,23,3,3,2,332,Others,45-60
+CUST10763,Adira Chokshi,abava@buch-maharaj.com,Male,22,Kolkata,Married,2,2022-12-31,140,22951.77,23,5,3,3,533,Loyal Customers,<30
+CUST10764,Seher Toor,zchar@wali.com,Male,71,Pune,Widowed,1,2022-10-09,14,23822.0,24,2,3,3,233,At Risk,60+
+CUST10765,Jhanvi Bhargava,subramaniamivana@yahoo.com,Female,68,Bangalore,Widowed,0,2021-01-23,90,14202.53,12,5,1,1,511,Others,60+
+CUST10766,Emir Kata,mannshaan@hotmail.com,Female,53,Mumbai,Divorced,0,2022-02-01,28,25673.55,27,3,4,4,344,Loyal Customers,45-60
+CUST10767,Sahil Karnik,reyanshlata@subramaniam.com,Male,34,Jaipur,Divorced,1,2022-06-08,77,30431.89,24,4,3,5,435,Loyal Customers,30-45
+CUST10768,Aaryahi Kale,jgokhale@chad.info,Female,39,Jaipur,Divorced,0,2024-07-15,13,17705.64,21,2,2,1,221,New Customers,30-45
+CUST10769,Ritvik Sheth,ndara@hotmail.com,Male,37,Jaipur,Divorced,1,2022-09-12,1,25229.08,27,1,4,4,144,At Risk,30-45
+CUST10770,Hansh Balasubramanian,singhalahana@yahoo.com,Female,28,Ahmedabad,Divorced,2,2023-11-28,67,19415.59,26,4,4,2,442,Potential Loyalists,<30
+CUST10771,Lakshay Dhillon,dharmajantara@gmail.com,Female,27,Ahmedabad,Widowed,3,2023-05-31,50,26455.82,26,4,4,4,444,Champions,<30
+CUST10772,Nirvi Chacko,nchad@tailor-date.com,Female,60,Pune,Married,3,2022-10-31,47,29948.850000000002,31,4,5,5,455,Champions,45-60
+CUST10773,Ivana D’Alia,shanaya03@gmail.com,Female,20,Delhi,Married,4,2023-11-12,32,25221.36,22,3,2,4,324,Big Spenders,<30
+CUST10774,Bhavin Bhalla,kalakiara@lad.com,Female,21,Jaipur,Divorced,0,2023-04-06,18,22206.46,23,2,3,3,233,At Risk,<30
+CUST10775,Zaina Luthra,jrau@yahoo.com,Male,57,Chennai,Married,3,2023-06-29,54,24696.28,27,4,4,4,444,Champions,45-60
+CUST10776,Tanya Sandal,gatik84@gmail.com,Female,33,Lucknow,Divorced,1,2022-04-12,4,41050.76,33,1,5,5,155,At Risk,30-45
+CUST10777,Reyansh Bala,taimur18@devan-savant.com,Not Disclosed,33,Jaipur,Single,0,2021-10-27,32,26496.19,27,3,4,4,344,Loyal Customers,30-45
+CUST10778,Shayak Ghosh,vardaniya74@contractor.biz,Male,59,Pune,Single,0,2020-10-23,79,26091.739999999998,22,5,2,4,524,Potential Loyalists,45-60
+CUST10779,Mannat Jhaveri,dchoudhry@hotmail.com,Not Disclosed,35,Lucknow,Married,3,2022-07-28,39,26214.1,26,3,4,4,344,Loyal Customers,30-45
+CUST10780,Sara Kulkarni,mchandra@hotmail.com,Female,36,Bangalore,Single,0,2023-04-07,36,24476.45,28,3,5,4,354,Loyal Customers,30-45
+CUST10781,Mishti Bora,sumer14@gmail.com,Female,73,Jaipur,Single,1,2021-02-20,15,20433.5,24,2,3,2,232,At Risk,60+
+CUST10782,Advik Wable,qkaran@hotmail.com,Female,21,Hyderabad,Divorced,1,2021-12-07,46,31020.65,29,4,5,5,455,Champions,<30
+CUST10783,Renee Sharma,aarna23@thaman.org,Not Disclosed,49,Lucknow,Married,1,2022-01-09,79,22564.98,17,5,1,3,513,Others,45-60
+CUST10784,Miraan Mahajan,oorjabhasin@varghese.com,Not Disclosed,23,Chennai,Widowed,3,2022-03-19,1,17439.239999999998,19,1,1,1,111,Lost,<30
+CUST10785,Arnav Jhaveri,sairasandal@gmail.com,Male,67,Hyderabad,Widowed,3,2023-09-06,7,19512.46,18,1,1,2,112,Lost,60+
+CUST10786,Biju Rao,badamikanav@balay-guha.org,Not Disclosed,44,Kolkata,Married,0,2022-07-23,12,17571.94,22,2,2,1,221,New Customers,30-45
+CUST10787,Pihu Dutta,jayan94@yahoo.com,Male,36,Mumbai,Divorced,2,2023-02-11,12,27403.98,29,2,5,4,254,At Risk,30-45
+CUST10788,Manikya Choudhary,xbobal@goda-raju.net,Male,57,Ahmedabad,Widowed,2,2021-10-05,59,30930.190000000002,25,4,4,5,445,Champions,45-60
+CUST10789,Baiju Lala,varugheseadira@thaker-lall.com,Female,24,Ahmedabad,Single,1,2023-02-03,26,27519.93,29,3,5,4,354,Loyal Customers,<30
+CUST10790,Ryan Lad,ikuruvilla@yahoo.com,Female,53,Hyderabad,Married,0,2022-11-15,71,18209.09,23,4,3,2,432,Potential Loyalists,45-60
+CUST10791,Heer Bedi,rashadora@kakar-zachariah.com,Female,53,Mumbai,Divorced,0,2021-04-14,15,18253.63,20,2,2,2,222,New Customers,45-60
+CUST10792,Sahil Kant,karanjhanvi@yahoo.com,Female,39,Delhi,Divorced,0,2022-09-19,109,28794.09,27,5,4,5,545,Champions,30-45
+CUST10793,Rohan Randhawa,bhallanakul@kapur-goswami.com,Not Disclosed,30,Delhi,Married,2,2020-07-29,91,21112.04,20,5,2,2,522,Potential Loyalists,<30
+CUST10794,Trisha Sampath,zarasangha@venkataraman-gandhi.net,Not Disclosed,54,Kolkata,Single,0,2021-03-19,76,21193.38,23,4,3,2,432,Potential Loyalists,45-60
+CUST10795,Armaan Bala,charvikaran@kumar.com,Female,61,Mumbai,Single,1,2021-07-24,1,21806.47,21,1,2,3,123,Lost,60+
+CUST10796,Devansh Doshi,ndara@dalia.com,Not Disclosed,69,Bangalore,Single,2,2023-01-05,24,21956.21,22,2,2,3,223,Others,60+
+CUST10797,Hansh Mannan,sumersamra@grewal.info,Female,59,Kolkata,Married,0,2022-12-06,7,30935.2,29,1,5,5,155,At Risk,45-60
+CUST10798,Arhaan Sankaran,vaibhavsabharwal@yahoo.com,Male,57,Pune,Divorced,3,2022-07-01,403,17864.55,18,5,1,1,511,Others,45-60
+CUST10799,Armaan Lala,madhuprana@dhaliwal.org,Not Disclosed,34,Hyderabad,Divorced,2,2023-11-01,32,22146.55,19,3,1,3,313,Others,30-45
+CUST10800,Armaan Rajagopalan,wborde@walla-vohra.com,Male,60,Ahmedabad,Divorced,3,2021-11-14,38,16643.15,19,3,1,1,311,Others,45-60
+CUST10801,Parinaaz Gala,manikyaganguly@kannan.org,Not Disclosed,27,Ahmedabad,Divorced,1,2022-12-08,4,17885.86,15,1,1,1,111,Lost,<30
+CUST10802,Jiya Bali,abramshenoy@hotmail.com,Female,50,Hyderabad,Married,1,2023-11-01,20,21800.81,23,2,3,3,233,At Risk,45-60
+CUST10803,Kimaya Din,korpalishita@zacharia.org,Male,24,Hyderabad,Divorced,0,2023-05-13,53,31343.62,27,4,4,5,445,Champions,<30
+CUST10804,Prisha Singhal,ezachariah@yahoo.com,Female,32,Bangalore,Single,2,2023-12-03,12,16082.79,20,2,2,1,221,New Customers,30-45
+CUST10805,Divyansh Sane,subramanianmanikya@chauhan-bahl.org,Female,34,Ahmedabad,Married,2,2024-03-08,36,27274.81,22,3,2,4,324,Big Spenders,30-45
+CUST10806,Kiara Goda,dguha@bal.org,Female,20,Mumbai,Married,2,2024-05-22,4,25299.11,21,1,2,4,124,Lost,<30
+CUST10807,Nitara Vora,behlshalv@gmail.com,Female,37,Chennai,Widowed,2,2023-10-07,56,15923.74,15,4,1,1,411,Others,30-45
+CUST10808,Anahita Buch,esastry@arya.com,Female,57,Hyderabad,Divorced,3,2022-01-20,2,23879.43,22,1,2,3,123,Lost,45-60
+CUST10809,Nitya Rege,rajuseher@ramesh.com,Female,48,Lucknow,Married,2,2024-04-03,1,15454.71,18,1,1,1,111,Lost,45-60
+CUST10810,Onkar Balasubramanian,aaina37@gmail.com,Female,27,Kolkata,Single,0,2021-05-21,23,14250.39,17,2,1,1,211,New Customers,<30
+CUST10811,Lakshay Chopra,zainrau@kannan-gandhi.com,Male,67,Pune,Married,1,2020-11-14,77,23363.350000000002,26,4,4,3,443,Loyal Customers,60+
+CUST10812,Aaina Batra,taran18@hotmail.com,Female,20,Ahmedabad,Divorced,2,2023-06-11,41,18133.48,16,3,1,1,311,Others,<30
+CUST10813,Kiaan Dewan,aniruddh33@yahoo.com,Not Disclosed,61,Lucknow,Widowed,2,2022-07-13,99,20536.39,27,5,4,2,542,Potential Loyalists,60+
+CUST10814,Pari Raman,tyohannan@hotmail.com,Female,45,Chennai,Widowed,2,2021-12-15,14,21941.29,22,2,2,3,223,Others,30-45
+CUST10815,Sana Majumdar,urvigarg@kale.com,Not Disclosed,45,Kolkata,Divorced,3,2023-08-19,87,22271.44,16,5,1,3,513,Others,30-45
+CUST10816,Divit Varkey,zarakale@yahoo.com,Male,64,Bangalore,Divorced,3,2020-10-27,20,27770.239999999998,26,2,4,4,244,At Risk,60+
+CUST10817,Vardaniya Dua,kkhare@mangat.net,Not Disclosed,45,Kolkata,Single,2,2022-10-10,150,20549.48,21,5,2,2,522,Potential Loyalists,30-45
+CUST10818,Zara Cheema,mannevidur@yahoo.com,Female,21,Kolkata,Married,0,2020-09-13,270,22551.33,21,5,2,3,523,Potential Loyalists,<30
+CUST10819,Nitya Mane,skanda@hotmail.com,Male,72,Pune,Widowed,0,2022-09-28,203,28195.23,17,5,1,5,515,Others,60+
+CUST10820,Hiran Luthra,sethiaradhya@yahoo.com,Male,32,Lucknow,Single,2,2022-02-02,20,23497.05,22,2,2,3,223,Others,30-45
+CUST10821,Nitara Babu,dsani@brahmbhatt-mannan.com,Female,50,Pune,Married,1,2022-04-05,89,14003.31,15,5,1,1,511,Others,45-60
+CUST10822,Seher Hegde,wsinha@raj.biz,Female,54,Bangalore,Single,1,2021-05-09,17,22563.53,24,2,3,3,233,At Risk,45-60
+CUST10823,Mehul Som,srinivasyasmin@hotmail.com,Not Disclosed,33,Bangalore,Single,0,2023-02-05,40,16619.39,19,3,1,1,311,Others,30-45
+CUST10824,Damini Singhal,laganvora@yahoo.com,Not Disclosed,18,Mumbai,Divorced,0,2021-10-26,97,13214.18,15,5,1,1,511,Others,<30
+CUST10825,Farhan Sen,raynehmat@kothari.info,Male,21,Ahmedabad,Married,0,2020-09-27,47,25054.13,22,4,2,4,424,Potential Loyalists,<30
+CUST10826,Mamooty Sangha,dchad@karan-bains.com,Not Disclosed,28,Lucknow,Widowed,0,2022-07-16,146,13115.82,15,5,1,1,511,Others,<30
+CUST10827,Lakshay Ratti,gokulandra@ratti-anand.biz,Male,22,Hyderabad,Married,2,2022-09-18,25,19921.81,19,3,1,2,312,Others,<30
+CUST10828,Taran Ganesan,samarth85@balan.com,Male,68,Kolkata,Widowed,0,2023-03-07,21,23479.19,24,2,3,3,233,At Risk,60+
+CUST10829,Samaira Arya,chandravidur@hotmail.com,Male,69,Pune,Married,0,2020-12-20,64,27033.03,26,4,4,4,444,Champions,60+
+CUST10830,Mahika Bhakta,ybains@yahoo.com,Not Disclosed,27,Hyderabad,Married,2,2022-10-25,9,21030.28,22,1,2,2,122,Lost,<30
+CUST10831,Ishita Agarwal,vbalay@yahoo.com,Not Disclosed,27,Jaipur,Divorced,4,2021-06-30,46,36714.39,36,4,5,5,455,Champions,<30
+CUST10832,Biju Warrior,laganahuja@gmail.com,Not Disclosed,41,Delhi,Divorced,1,2024-06-11,7,17777.44,22,1,2,1,121,Lost,30-45
+CUST10833,Manjari Mander,majumdararhaan@hotmail.com,Male,60,Lucknow,Widowed,1,2022-06-22,7,30481.37,30,1,5,5,155,At Risk,45-60
+CUST10834,Chirag Ahluwalia,mamootyagarwal@babu.org,Not Disclosed,54,Jaipur,Married,3,2021-04-16,12,26357.44,24,2,3,4,234,At Risk,45-60
+CUST10835,Kimaya Sarraf,kohliumang@yahoo.com,Not Disclosed,55,Delhi,Widowed,2,2023-06-26,53,22525.16,17,4,1,3,413,Others,45-60
+CUST10836,Nirvaan Barman,prishadora@baral.com,Female,32,Pune,Widowed,1,2021-04-09,3,19923.1,21,1,2,2,122,Lost,30-45
+CUST10837,Alisha Shetty,nishith22@hotmail.com,Not Disclosed,29,Mumbai,Single,4,2021-02-14,42,15354.51,19,3,1,1,311,Others,<30
+CUST10838,Aarna Barad,trishabalan@hotmail.com,Not Disclosed,47,Bangalore,Widowed,1,2023-11-02,10,23994.36,21,1,2,3,123,Lost,45-60
+CUST10839,Ranbir Aggarwal,lchar@gmail.com,Female,27,Pune,Married,1,2023-06-17,149,19030.18,27,5,4,2,542,Potential Loyalists,<30
+CUST10840,Damini Krishnamurthy,sehermann@yahoo.com,Not Disclosed,36,Lucknow,Married,0,2022-01-27,97,35835.93,24,5,3,5,535,Loyal Customers,30-45
+CUST10841,Aradhya Kumar,dbhakta@gmail.com,Male,36,Delhi,Single,2,2024-03-17,43,25661.36,24,4,3,4,434,Loyal Customers,30-45
+CUST10842,Sahil Rana,vgrewal@hotmail.com,Female,50,Hyderabad,Divorced,1,2024-04-10,2,22698.11,25,1,4,3,143,At Risk,45-60
+CUST10843,Ivana Mander,jchowdhury@yahoo.com,Male,42,Hyderabad,Single,1,2020-12-15,46,12559.82,19,4,1,1,411,Others,30-45
+CUST10844,Shayak Sagar,arnavbhalla@hotmail.com,Female,57,Hyderabad,Widowed,0,2023-09-25,110,19339.18,18,5,1,2,512,Others,45-60
+CUST10845,Gatik Seshadri,raghav15@yahoo.com,Female,38,Kolkata,Married,2,2021-01-01,368,16561.88,20,5,2,1,521,Others,30-45
+CUST10846,Elakshi Shan,krishshlok@hotmail.com,Male,50,Mumbai,Widowed,3,2021-02-02,59,22163.36,25,4,4,3,443,Loyal Customers,45-60
+CUST10847,Divyansh Som,bhaminidara@ganguly-bains.com,Male,50,Pune,Widowed,1,2021-02-06,31,20806.64,21,3,2,2,322,Others,45-60
+CUST10848,Abram Kala,ishita93@yahoo.com,Female,19,Lucknow,Widowed,1,2024-02-21,27,22324.81,23,3,3,3,333,Loyal Customers,<30
+CUST10849,Mohanlal Chandra,tiyasidhu@gola.com,Male,51,Mumbai,Single,4,2021-03-13,15,22204.8,23,2,3,3,233,At Risk,45-60
+CUST10850,Lakshay Jain,nakulthaker@bora-rana.org,Not Disclosed,74,Hyderabad,Divorced,0,2021-06-20,115,15421.67,16,5,1,1,511,Others,60+
+CUST10851,Jivika Edwin,hrishita99@dara-vaidya.com,Male,46,Bangalore,Widowed,0,2024-07-03,26,33390.42,38,3,5,5,355,Loyal Customers,45-60
+CUST10852,Arhaan Bobal,kamdarbaiju@varghese-sekhon.info,Female,50,Kolkata,Single,1,2021-04-14,26,26406.03,24,3,3,4,334,Loyal Customers,45-60
+CUST10853,Aaryahi Chokshi,sara21@deep.com,Male,62,Kolkata,Widowed,1,2024-03-28,3,14743.76,12,1,1,1,111,Lost,60+
+CUST10854,Piya Brahmbhatt,tailoranahita@hotmail.com,Male,51,Kolkata,Married,4,2022-10-12,18,32764.66,29,2,5,5,255,At Risk,45-60
+CUST10855,Manjari Tandon,agrawaltiya@anand.com,Male,28,Hyderabad,Married,1,2023-11-18,21,27415.04,24,2,3,4,234,At Risk,<30
+CUST10856,Alisha Bains,rohanchaudhry@sinha.org,Not Disclosed,39,Ahmedabad,Widowed,2,2022-02-22,158,22478.69,20,5,2,3,523,Potential Loyalists,30-45
+CUST10857,Umang Lata,jiyasavant@dugar.net,Not Disclosed,54,Jaipur,Married,2,2024-02-06,20,16668.03,16,2,1,1,211,New Customers,45-60
+CUST10858,Nitara Krish,abandi@dutta-mangat.com,Male,36,Delhi,Single,2,2023-12-30,12,20033.5,21,2,2,2,222,New Customers,30-45
+CUST10859,Hridaan Sarraf,kashyapnirvi@tella-uppal.com,Not Disclosed,38,Delhi,Married,1,2022-01-17,72,26617.02,23,4,3,4,434,Loyal Customers,30-45
+CUST10860,Veer Anne,salvitanya@hotmail.com,Male,44,Bangalore,Single,2,2023-04-29,25,14256.91,15,3,1,1,311,Others,30-45
+CUST10861,Vritika Dey,khannaanika@gmail.com,Not Disclosed,26,Chennai,Divorced,1,2021-02-23,100,29502.27,26,5,4,5,545,Champions,<30
+CUST10862,Zaina Acharya,pbadami@gmail.com,Not Disclosed,30,Kolkata,Widowed,2,2022-12-28,31,26850.95,27,3,4,4,344,Loyal Customers,<30
+CUST10863,Pari Luthra,aarush03@viswanathan.biz,Male,72,Kolkata,Divorced,0,2023-09-05,57,20022.62,21,4,2,2,422,Potential Loyalists,60+
+CUST10864,Samaira Agate,uchhabra@krishnamurthy-sodhi.com,Male,55,Chennai,Divorced,2,2021-10-04,15,24306.49,30,2,5,3,253,At Risk,45-60
+CUST10865,Zoya Madan,valadivit@yahoo.com,Not Disclosed,18,Delhi,Widowed,2,2024-04-24,10,23217.07,21,1,2,3,123,Lost,<30
+CUST10866,Bhamini Ram,faiyazsarma@yahoo.com,Female,37,Bangalore,Divorced,2,2020-12-24,105,21494.56,22,5,2,3,523,Potential Loyalists,30-45
+CUST10867,Biju Bhagat,chandshayak@yahoo.com,Not Disclosed,32,Chennai,Divorced,0,2021-08-22,130,18119.4,21,5,2,1,521,Others,30-45
+CUST10868,Rhea Kohli,prisha47@gmail.com,Male,21,Mumbai,Married,2,2023-10-09,17,17401.79,21,2,2,1,221,New Customers,<30
+CUST10869,Elakshi Atwal,ehsaanshanker@barad-bhat.com,Female,63,Mumbai,Divorced,2,2023-05-20,48,21041.14,23,4,3,2,432,Potential Loyalists,60+
+CUST10870,Ojas Saini,tarinisankar@bera-kar.com,Not Disclosed,75,Ahmedabad,Single,2,2023-12-12,7,24694.72,22,1,2,4,124,Lost,60+
+CUST10871,Alia Manne,lallkismat@gmail.com,Male,74,Mumbai,Married,4,2021-12-12,15,30129.99,27,2,4,5,245,At Risk,60+
+CUST10872,Onkar Halder,ygupta@gmail.com,Female,40,Ahmedabad,Widowed,0,2022-07-25,13,22676.86,23,2,3,3,233,At Risk,30-45
+CUST10873,Vardaniya Rattan,chadhabhamini@virk-aurora.com,Male,37,Kolkata,Married,0,2022-03-05,38,21159.68,28,3,5,2,352,Others,30-45
+CUST10874,Piya Kulkarni,valatarini@gmail.com,Not Disclosed,45,Lucknow,Divorced,0,2023-09-08,1,28196.940000000002,26,1,4,5,145,At Risk,30-45
+CUST10875,Alisha Shere,tdora@barad-kulkarni.org,Male,67,Pune,Married,4,2022-09-19,49,26126.71,30,4,5,4,454,Champions,60+
+CUST10876,Aaryahi Dutt,zroy@hotmail.com,Female,22,Lucknow,Married,1,2024-06-13,7,36661.47,29,1,5,5,155,At Risk,<30
+CUST10877,Jiya Sathe,tiyajain@srivastava.com,Not Disclosed,27,Bangalore,Widowed,0,2023-03-30,26,22304.11,23,3,3,3,333,Loyal Customers,<30
+CUST10878,Shlok Sengupta,kimayasastry@swamy.com,Not Disclosed,64,Chennai,Married,0,2022-09-05,1,27597.7,27,1,4,4,144,At Risk,60+
+CUST10879,Priyansh Koshy,qvasa@din-edwin.com,Not Disclosed,74,Delhi,Married,2,2020-09-25,77,35802.26,35,4,5,5,455,Champions,60+
+CUST10880,Misha Rao,ojasbhasin@bains.com,Not Disclosed,35,Ahmedabad,Divorced,0,2021-05-13,32,28125.3,23,3,3,5,335,Loyal Customers,30-45
+CUST10881,Sara Rege,jayeshjoshi@rama-sinha.com,Male,62,Mumbai,Single,2,2022-10-16,51,26680.21,27,4,4,4,444,Champions,60+
+CUST10882,Prisha Sur,tanya22@tella-varty.com,Not Disclosed,45,Kolkata,Divorced,2,2020-09-29,21,25680.32,25,2,4,4,244,At Risk,30-45
+CUST10883,Riya Sule,shaanraj@gmail.com,Female,45,Chennai,Widowed,1,2024-03-17,36,28496.12,25,3,4,5,345,Loyal Customers,30-45
+CUST10884,Anya Dhaliwal,wchoudhury@gmail.com,Female,29,Ahmedabad,Single,1,2023-03-27,82,22064.54,21,5,2,3,523,Potential Loyalists,<30
+CUST10885,Jivika Dash,uthkarshchad@gmail.com,Not Disclosed,72,Mumbai,Widowed,0,2023-08-04,13,17224.81,15,2,1,1,211,New Customers,60+
+CUST10886,Sara Balakrishnan,rameshcharvi@seshadri-arora.info,Male,23,Lucknow,Widowed,0,2023-07-17,12,29984.92,30,2,5,5,255,At Risk,<30
+CUST10887,Raghav Setty,fbhargava@yahoo.com,Not Disclosed,33,Bangalore,Widowed,2,2021-09-09,180,20054.98,25,5,4,2,542,Potential Loyalists,30-45
+CUST10888,Adira Chaudhari,darshitsaraf@seshadri.com,Not Disclosed,57,Kolkata,Married,1,2024-05-14,42,10537.46,15,3,1,1,311,Others,45-60
+CUST10889,Hiran Choudhry,indranil11@hotmail.com,Not Disclosed,35,Bangalore,Married,0,2022-01-23,56,19827.05,19,4,1,2,412,Others,30-45
+CUST10890,Miraan Talwar,ganesanlavanya@gulati.org,Female,40,Delhi,Single,3,2021-05-30,75,26338.17,22,4,2,4,424,Potential Loyalists,30-45
+CUST10891,Tanya Karpe,pihu45@hotmail.com,Not Disclosed,32,Hyderabad,Divorced,2,2023-06-27,23,13832.57,16,2,1,1,211,New Customers,30-45
+CUST10892,Diya Bassi,akarshthakur@dasgupta.biz,Not Disclosed,46,Delhi,Widowed,1,2023-11-21,2,29606.61,28,1,5,5,155,At Risk,45-60
+CUST10893,Emir Guha,darshitchopra@dugar.com,Male,29,Lucknow,Single,1,2021-11-21,20,28337.43,27,2,4,5,245,At Risk,<30
+CUST10894,Prerak Ghose,badal73@hotmail.com,Male,61,Pune,Single,4,2023-12-29,99,13560.69,17,5,1,1,511,Others,60+
+CUST10895,Indrans Hayer,sakshamgara@gmail.com,Female,31,Delhi,Single,2,2021-01-15,11,17686.57,25,1,4,1,141,At Risk,30-45
+CUST10896,Yakshit Sethi,pgoda@yadav.com,Female,39,Kolkata,Divorced,1,2022-09-07,9,31227.15,30,1,5,5,155,At Risk,30-45
+CUST10897,Parinaaz Ramanathan,rsathe@yahoo.com,Female,51,Lucknow,Single,0,2022-06-16,120,31665.44,30,5,5,5,555,Champions,45-60
+CUST10898,Mehul Batra,alishacherian@yahoo.com,Female,40,Jaipur,Widowed,1,2020-10-30,62,25784.1,20,4,2,4,424,Potential Loyalists,30-45
+CUST10899,Samaira Hayre,jivikaram@amble-dhingra.com,Male,46,Chennai,Single,0,2021-04-07,23,17193.22,15,2,1,1,211,New Customers,45-60
+CUST10900,Dhanuk Zacharia,maneishita@hotmail.com,Female,44,Bangalore,Married,0,2023-12-19,15,15691.76,15,2,1,1,211,New Customers,30-45
+CUST10901,Rasha Khalsa,tedwin@ratta-kunda.com,Not Disclosed,57,Mumbai,Married,2,2020-09-26,133,23355.42,24,5,3,3,533,Loyal Customers,45-60
+CUST10902,Lavanya Buch,zkrish@hotmail.com,Female,21,Delhi,Divorced,2,2023-08-05,30,36752.84,25,3,4,5,345,Loyal Customers,<30
+CUST10903,Yuvraj  Ram,sehgaltarini@yahoo.com,Male,29,Jaipur,Widowed,1,2021-07-14,34,22768.65,25,3,4,3,343,Loyal Customers,<30
+CUST10904,Prisha Chandran,emirsarkar@gmail.com,Male,47,Kolkata,Single,0,2020-10-24,524,19849.489999999998,23,5,3,2,532,Potential Loyalists,45-60
+CUST10905,Kanav Bala,arnav84@chandran.net,Female,50,Ahmedabad,Widowed,3,2024-04-22,4,27108.32,27,1,4,4,144,At Risk,45-60
+CUST10906,Onkar Bajaj,sekhontanya@rajagopalan.com,Not Disclosed,45,Bangalore,Married,1,2020-11-06,184,19197.04,20,5,2,2,522,Potential Loyalists,30-45
+CUST10907,Shaan Boase,xmann@agarwal.com,Male,55,Chennai,Married,0,2023-10-05,17,13389.130000000001,18,2,1,1,211,New Customers,45-60
+CUST10908,Madhav Talwar,ekata@deshmukh.com,Male,30,Mumbai,Divorced,0,2024-01-16,42,19158.38,23,3,3,2,332,Others,<30
+CUST10909,Riaan Manne,samarbawa@mani.com,Not Disclosed,51,Jaipur,Widowed,1,2023-12-12,48,22205.51,23,4,3,3,433,Loyal Customers,45-60
+CUST10910,Abram Dey,taradalal@chaudhary.com,Male,68,Hyderabad,Single,0,2021-06-05,27,17808.24,17,3,1,1,311,Others,60+
+CUST10911,Samaira Ben,kaulojas@yahoo.com,Not Disclosed,52,Mumbai,Married,3,2022-04-09,11,18957.46,22,1,2,2,122,Lost,45-60
+CUST10912,Akarsh Ganesan,dasguptaira@gmail.com,Male,69,Mumbai,Married,1,2023-09-10,97,27124.53,22,5,2,4,524,Potential Loyalists,60+
+CUST10913,Divit D’Alia,mannat51@devi.com,Male,41,Chennai,Married,0,2020-10-13,223,18126.92,20,5,2,1,521,Others,30-45
+CUST10914,Anvi Bala,bsehgal@gmail.com,Female,40,Lucknow,Single,1,2021-07-29,15,20289.16,22,2,2,2,222,New Customers,30-45
+CUST10915,Rohan Kohli,bdutt@arya.com,Not Disclosed,47,Mumbai,Divorced,1,2021-12-25,14,23520.31,22,2,2,3,223,Others,45-60
+CUST10916,Hunar Ramesh,imadan@hotmail.com,Female,61,Kolkata,Divorced,2,2021-08-06,2,24754.51,26,1,4,4,144,At Risk,60+
+CUST10917,Tanya Lanka,zaina72@hotmail.com,Female,36,Delhi,Single,2,2023-07-26,17,15907.140000000001,15,2,1,1,211,New Customers,30-45
+CUST10918,Madhav Ben,abramravi@barman.net,Female,22,Hyderabad,Single,2,2021-06-19,56,12886.98,15,4,1,1,411,Others,<30
+CUST10919,Kabir Gola,sarajoshi@kashyap.com,Male,48,Delhi,Married,4,2024-02-03,6,26190.28,27,1,4,4,144,At Risk,45-60
+CUST10920,Yuvaan Sha,hiran93@gade-chandra.net,Male,36,Ahmedabad,Widowed,1,2022-08-16,65,18680.82,19,4,1,2,412,Others,30-45
+CUST10921,Sahil Kannan,qborra@bumb.info,Not Disclosed,54,Jaipur,Married,2,2023-11-21,39,17668.27,18,3,1,1,311,Others,45-60
+CUST10922,Arnav Iyengar,akulkarni@gmail.com,Female,23,Mumbai,Single,4,2024-05-09,1,19132.510000000002,19,1,1,2,112,Lost,<30
+CUST10923,Vanya Rattan,tripathiindrans@ramachandran-sekhon.com,Not Disclosed,57,Pune,Married,2,2024-03-29,16,21375.34,23,2,3,3,233,At Risk,45-60
+CUST10924,Vihaan Bhatia,ghosejayan@sani.com,Female,29,Lucknow,Widowed,1,2022-09-08,28,26685.96,28,3,5,4,354,Loyal Customers,<30
+CUST10925,Trisha Lad,cjani@shere.com,Not Disclosed,47,Hyderabad,Married,3,2022-04-25,22,29265.13,29,2,5,5,255,At Risk,45-60
+CUST10926,Samarth Singhal,alisha62@gmail.com,Male,36,Ahmedabad,Widowed,1,2022-02-27,64,23250.69,23,4,3,3,433,Loyal Customers,30-45
+CUST10927,Stuvan Sarraf,damini60@yahoo.com,Female,66,Delhi,Single,0,2023-07-14,25,27206.3,29,3,5,4,354,Loyal Customers,60+
+CUST10928,Shamik Bala,jayesh89@tripathi.net,Female,42,Hyderabad,Widowed,0,2023-10-19,9,31764.98,29,1,5,5,155,At Risk,30-45
+CUST10929,Tushar Vohra,chackojivin@hotmail.com,Not Disclosed,71,Bangalore,Widowed,1,2021-04-25,109,13706.67,13,5,1,1,511,Others,60+
+CUST10930,Mishti Kapoor,dyalneysa@anand.info,Not Disclosed,27,Delhi,Married,0,2022-02-06,25,33656.340000000004,30,3,5,5,355,Loyal Customers,<30
+CUST10931,Raghav Baral,obhalla@sridhar.com,Male,66,Jaipur,Widowed,2,2021-11-20,4,28500.11,28,1,5,5,155,At Risk,60+
+CUST10932,Nakul Babu,lagan31@gmail.com,Female,37,Pune,Married,0,2022-11-03,30,16020.529999999999,19,3,1,1,311,Others,30-45
+CUST10933,Mishti Dey,tusharkar@vala-gala.com,Female,45,Lucknow,Divorced,1,2023-07-12,42,23303.18,19,3,1,3,313,Others,30-45
+CUST10934,Dharmajan Kata,jivikamann@cheema.org,Female,72,Hyderabad,Divorced,0,2022-09-26,66,24971.54,22,4,2,4,424,Potential Loyalists,60+
+CUST10935,Reyansh Sangha,majumdarnehmat@yahoo.com,Female,54,Pune,Divorced,4,2023-05-13,11,28915.94,29,1,5,5,155,At Risk,45-60
+CUST10936,Jayesh Lall,tsaraf@issac-dalia.com,Not Disclosed,44,Ahmedabad,Divorced,3,2024-05-12,19,24698.24,27,2,4,4,244,At Risk,30-45
+CUST10937,Jhanvi Talwar,madhavsood@gmail.com,Male,25,Chennai,Widowed,3,2022-04-30,59,16258.94,26,4,4,1,441,New Loyalists,<30
+CUST10938,Myra Tank,farhansachar@sheth-ahluwalia.com,Not Disclosed,75,Ahmedabad,Married,1,2021-10-18,76,17689.95,19,4,1,1,411,Others,60+
+CUST10939,Myra Bala,bhattianahita@zacharia-vohra.com,Female,33,Bangalore,Married,0,2022-04-20,71,19939.08,18,4,1,2,412,Others,30-45
+CUST10940,Anaya Dada,eshani67@manda.com,Male,44,Mumbai,Widowed,1,2021-08-03,1,18430.21,20,1,2,2,122,Lost,30-45
+CUST10941,Arhaan Bhattacharyya,ladojas@mahal.com,Male,22,Delhi,Married,1,2023-04-13,21,32591.3,32,2,5,5,255,At Risk,<30
+CUST10942,Inaaya  Tailor,shaansachar@chanda.com,Not Disclosed,42,Hyderabad,Divorced,2,2022-01-18,1,16315.07,20,1,2,1,121,Lost,30-45
+CUST10943,Nitara Shan,lakshaybajaj@ganesh.biz,Female,18,Ahmedabad,Married,0,2024-04-16,28,20066.13,18,3,1,2,312,Others,<30
+CUST10944,Riya Chand,bassiarmaan@krish-bakshi.com,Female,36,Ahmedabad,Widowed,1,2022-07-09,40,44784.99,31,3,5,5,355,Loyal Customers,30-45
+CUST10945,Zoya Varughese,nakul34@gmail.com,Not Disclosed,65,Bangalore,Single,3,2023-04-03,20,31920.010000000002,34,2,5,5,255,At Risk,60+
+CUST10946,Ranbir Venkataraman,armaan13@gmail.com,Male,51,Pune,Widowed,0,2021-04-06,22,14499.78,16,2,1,1,211,New Customers,45-60
+CUST10947,Lakshay Rao,yissac@sankar-goyal.info,Male,40,Chennai,Divorced,0,2022-04-01,22,15859.869999999999,20,2,2,1,221,New Customers,30-45
+CUST10948,Neelofar Date,jainyuvraj@sur-sastry.biz,Female,69,Pune,Single,1,2024-02-22,52,13705.96,19,4,1,1,411,Others,60+
+CUST10949,Navya Chaudhari,aniruddh60@agate-jaggi.com,Not Disclosed,58,Hyderabad,Divorced,4,2021-05-12,12,17746.72,15,2,1,1,211,New Customers,45-60
+CUST10950,Vedika Dave,mamootysani@boase.com,Female,28,Ahmedabad,Divorced,1,2022-11-22,56,29570.54,28,4,5,5,455,Champions,<30
+CUST10951,Mohanlal Deep,hansriaan@gmail.com,Male,75,Mumbai,Married,4,2023-11-29,17,23076.04,27,2,4,3,243,At Risk,60+
+CUST10952,Anay Kala,tiwarijayant@dash.org,Female,38,Chennai,Widowed,0,2023-04-06,129,24999.45,22,5,2,4,524,Potential Loyalists,30-45
+CUST10953,Vanya Barad,tarathakkar@manda-mani.com,Male,66,Ahmedabad,Single,1,2022-06-20,44,24980.940000000002,23,4,3,4,434,Loyal Customers,60+
+CUST10954,Chirag Sen,divitbhatt@varma.com,Not Disclosed,54,Mumbai,Widowed,1,2024-03-10,27,21868.97,20,3,2,3,323,Others,45-60
+CUST10955,Zain Goel,karanzoya@rau.com,Female,70,Mumbai,Widowed,0,2022-05-19,7,28094.190000000002,27,1,4,5,145,At Risk,60+
+CUST10956,Kanav Gola,rati35@yahoo.com,Not Disclosed,54,Mumbai,Widowed,0,2024-04-09,1,21801.31,23,1,3,3,133,At Risk,45-60
+CUST10957,Yuvraj  Basu,sarakapur@hotmail.com,Male,40,Lucknow,Single,2,2024-05-18,19,24385.52,21,2,2,4,224,Others,30-45
+CUST10958,Madhav Gaba,dagate@yahoo.com,Female,73,Jaipur,Divorced,0,2023-01-11,8,27937.87,28,1,5,5,155,At Risk,60+
+CUST10959,Devansh Din,samarth67@sami.com,Male,26,Pune,Widowed,0,2021-02-10,62,25566.5,30,4,5,4,454,Champions,<30
+CUST10960,Uthkarsh Sawhney,doraanahi@hotmail.com,Not Disclosed,50,Delhi,Widowed,1,2021-07-05,46,21344.57,23,4,3,3,433,Loyal Customers,45-60
+CUST10961,Neelofar Agate,wkrish@babu.biz,Not Disclosed,36,Delhi,Single,3,2024-07-05,10,18227.68,18,1,1,2,112,Lost,30-45
+CUST10962,Lagan Vala,adah76@yahoo.com,Female,27,Chennai,Married,0,2023-09-13,29,17069.37,18,3,1,1,311,Others,<30
+CUST10963,Jivin Kunda,divyanshsetty@srivastava-gole.com,Female,25,Lucknow,Divorced,2,2020-11-03,78,31282.64,29,5,5,5,555,Champions,<30
+CUST10964,Rania Manne,hridaan82@gmail.com,Male,73,Hyderabad,Divorced,0,2021-05-04,88,19290.6,21,5,2,2,522,Potential Loyalists,60+
+CUST10965,Nehmat Sur,chaudhurijivika@korpal-singh.com,Male,39,Delhi,Married,2,2021-08-31,24,25945.1,29,2,5,4,254,At Risk,30-45
+CUST10966,Dhanuk Kala,jivin73@shanker-tata.org,Female,53,Lucknow,Single,1,2021-12-10,10,29347.84,27,1,4,5,145,At Risk,45-60
+CUST10967,Zoya Dhar,usom@sangha.com,Female,70,Jaipur,Widowed,1,2023-01-04,125,18966.96,20,5,2,2,522,Potential Loyalists,60+
+CUST10968,Vardaniya Behl,anahiseth@gmail.com,Not Disclosed,67,Jaipur,Widowed,2,2021-08-27,3,16979.79,18,1,1,1,111,Lost,60+
+CUST10969,Zeeshan Sood,anahita77@reddy.com,Not Disclosed,71,Bangalore,Single,0,2023-09-22,9,17819.05,17,1,1,1,111,Lost,60+
+CUST10970,Kashvi Wable,gbedi@yahoo.com,Male,59,Bangalore,Married,3,2022-03-10,22,21921.0,24,2,3,3,233,At Risk,45-60
+CUST10971,Stuvan Hora,pchauhan@gmail.com,Male,62,Hyderabad,Widowed,2,2024-03-02,13,26445.09,22,2,2,4,224,Others,60+
+CUST10972,Zara Chauhan,mangatsaanvi@kohli.com,Male,75,Pune,Widowed,1,2024-01-28,21,14662.119999999999,20,2,2,1,221,New Customers,60+
+CUST10973,Dhruv Tata,zoyasahni@sawhney-dar.com,Not Disclosed,65,Kolkata,Widowed,1,2024-04-23,12,10375.619999999999,15,2,1,1,211,New Customers,60+
+CUST10974,Elakshi Joshi,indrans87@hotmail.com,Female,26,Hyderabad,Widowed,0,2022-12-30,26,27829.29,24,3,3,4,334,Loyal Customers,<30
+CUST10975,Lakshay Malhotra,inaaya-biswas@yahoo.com,Female,57,Bangalore,Widowed,0,2021-07-17,69,29704.0,28,4,5,5,455,Champions,45-60
+CUST10976,Armaan Aurora,xuppal@krishna.org,Female,46,Mumbai,Divorced,2,2023-08-19,63,25589.31,24,4,3,4,434,Loyal Customers,45-60
+CUST10977,Myra Krishnan,rjaggi@yahoo.com,Not Disclosed,27,Ahmedabad,Widowed,3,2023-08-29,22,30372.82,27,2,4,5,245,At Risk,<30
+CUST10978,Dhanush Anne,chirag50@ray.com,Male,69,Lucknow,Single,2,2021-08-26,109,23094.17,23,5,3,3,533,Loyal Customers,60+
+CUST10979,Hiran Kala,shlok03@deo.com,Not Disclosed,43,Delhi,Single,0,2024-04-11,24,13406.83,15,2,1,1,211,New Customers,30-45
+CUST10980,Aradhya Sood,advik77@yahoo.com,Male,60,Delhi,Single,3,2022-07-29,25,14980.21,20,3,2,1,321,Others,45-60
+CUST10981,Siya Sunder,myra62@saha.info,Male,53,Ahmedabad,Single,0,2024-07-06,24,17379.42,18,2,1,1,211,New Customers,45-60
+CUST10982,Misha Lad,siyabhakta@seth-bahri.info,Female,39,Ahmedabad,Divorced,0,2022-12-03,29,18685.89,17,3,1,2,312,Others,30-45
+CUST10983,Mishti Bava,manikya15@dara.com,Not Disclosed,28,Kolkata,Single,1,2020-11-07,36,29173.42,28,3,5,5,355,Loyal Customers,<30
+CUST10984,Diya Hayre,detarini@dey.info,Female,46,Chennai,Single,4,2021-09-17,184,27261.55,25,5,4,4,544,Champions,45-60
+CUST10985,Ranbir Bava,aradhya58@deo.biz,Not Disclosed,21,Bangalore,Widowed,2,2023-06-06,26,25912.05,29,3,5,4,354,Loyal Customers,<30
+CUST10986,Darshit Mand,anaya53@yahoo.com,Not Disclosed,63,Hyderabad,Married,0,2021-04-18,83,18609.5,24,5,3,2,532,Potential Loyalists,60+
+CUST10987,Jayan Wagle,ojas82@gmail.com,Not Disclosed,75,Bangalore,Widowed,4,2022-03-18,58,25293.3,20,4,2,4,424,Potential Loyalists,60+
+CUST10988,Shamik Salvi,boasekrish@mammen.com,Not Disclosed,19,Chennai,Divorced,2,2023-09-27,53,16806.78,17,4,1,1,411,Others,<30
+CUST10989,Hansh Gara,bbava@yahoo.com,Male,46,Mumbai,Single,0,2022-03-14,77,32468.32,28,4,5,5,455,Champions,45-60
+CUST10990,Dhruv Shenoy,kumarpranay@borra-mani.com,Male,57,Chennai,Single,2,2021-03-13,52,23696.46,23,4,3,3,433,Loyal Customers,45-60
+CUST10991,Kavya Kant,chareshani@saraf-kanda.com,Female,24,Hyderabad,Divorced,2,2024-05-08,32,23621.72,21,3,2,3,323,Others,<30
+CUST10992,Khushi Tak,duamohanlal@anne.net,Not Disclosed,49,Pune,Married,3,2021-05-18,60,12437.01,19,4,1,1,411,Others,45-60
+CUST10993,Saira Chakrabarti,mandakanav@chadha.com,Male,36,Mumbai,Married,0,2021-04-22,43,29290.19,25,4,4,5,445,Champions,30-45
+CUST10994,Badal Saini,rajuivan@gmail.com,Not Disclosed,29,Hyderabad,Widowed,3,2023-04-13,23,29266.57,25,2,4,5,245,At Risk,<30
+CUST10995,Mehul Chada,hridaanagate@hotmail.com,Male,70,Hyderabad,Divorced,2,2020-07-29,402,24325.19,21,5,2,3,523,Potential Loyalists,60+
+CUST10996,Arhaan Tara,qwali@mand-sood.com,Male,35,Delhi,Single,1,2022-07-24,15,21809.11,21,2,2,3,223,Others,30-45
+CUST10997,Mahika Uppal,vdalal@yahoo.com,Female,70,Ahmedabad,Married,3,2023-01-27,32,21120.48,20,3,2,2,322,Others,60+
+CUST10998,Bhamini Aggarwal,kartik15@bajaj-singhal.com,Male,37,Jaipur,Single,0,2022-07-22,126,29494.56,25,5,4,5,545,Champions,30-45
+CUST10999,Alia Sekhon,urvichadha@hotmail.com,Male,67,Hyderabad,Widowed,1,2021-09-07,5,22028.01,23,1,3,3,133,At Risk,60+
