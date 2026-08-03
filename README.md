@@ -7,6 +7,61 @@ This project analyzes customer transaction data to understand customer behavior 
 The objective is to transform raw customer data into actionable business insights that can help improve customer retention, increase revenue, and optimize marketing campaigns.
 
 ---
+---
+
+# 📊 Project Visualizations
+
+<table>
+<tr>
+<td align="center">
+<b>Customer Demographics Summary</b><br>
+<img src="Customer_Demographics_Summary.png" width="450">
+</td>
+
+<td align="center">
+<b>RFM Distribution</b><br>
+<img src="rfm_distributio.png" width="450">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Customer Segmentation</b><br>
+<img src="segment_chart.png" width="450">
+</td>
+
+<td align="center">
+<b>Customer Clusters</b><br>
+<img src="customer_clusters.png" width="450">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Age-Based Insights</b><br>
+<img src="AGE-BASED_INSIGHTS.png" width="450">
+</td>
+
+<td align="center">
+<b>Geographic Insights</b><br>
+<img src="GEOGRAPHIC_INSIGHTS.png" width="450">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Business Insights</b><br>
+<img src="BUSINESS_INSIGHTS.png" width="450">
+</td>
+
+<td align="center">
+<b>Marketing Recommendations</b><br>
+<img src="MARKETING_RECOMMENDATIONS.png" width="450">
+</td>
+</tr>
+</table>
+
+---
 
 ## Business Problem
 
