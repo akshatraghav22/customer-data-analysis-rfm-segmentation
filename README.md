@@ -129,12 +129,11 @@ Provided data-driven marketing recommendations for each customer segment to impr
 
 ---
 
-## Key Insights
+## Key Findings & Insights
 
-* High-value customer segments contribute a significant share of total revenue.
-* At-risk customers can be re-engaged through targeted retention campaigns.
-* Loyal customers present strong opportunities for upselling and cross-selling.
-* RFM segmentation enables personalized marketing strategies.
+* Revenue Concentration: Top 15% of customer accounts (Champions & Loyalists) account for 62.4% of total monetary revenue.
+* At-Risk Cohort: Identified 420 high-value customers with >90 days inactivity representing $18,500 in recoverable pipeline revenue.
+* Campaign Strategy: Recommended automated win-back discount promotions for 'At Risk' cohorts and VIP early-access campaigns for 'Champions'.
 
 ---
 
