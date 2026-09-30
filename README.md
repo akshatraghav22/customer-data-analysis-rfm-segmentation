@@ -130,21 +130,33 @@ Provided data-driven marketing recommendations for each customer segment to impr
 * Jupyter Notebook
 
 ---
+## Key results (total spend INR 2.31 crore; average INR 23,053 per customer)
+| Segment | Customers | % of customers | % of spend | Avg days since purchase |
+|---|---|---|---|---|
+| Champions | 127 | 12.7% | 16.2% | 10.7 |
+| Loyal Customers | 183 | 18.3% | 20.7% | 22.9 |
+| Recent / Potential Loyalists | 192 | 19.2% | 15.7% | 11.6 |
+| Needs Attention | 98 | 9.8% | 7.9% | 32.0 |
+| At Risk | 260 | 26.0% | 28.8% | 95.3 |
+| Lost / Hibernating | 140 | 14.0% | 10.7% | 107.9 |
 
-## Key Findings & Insights
+## Findings
+1. **Spend is not concentrated.** The top 10% of customers account for 14.5% of spend and the top 20% for 27.0%, so the usual "80/20" pattern does not hold. Champions and Loyal Customers (31% of customers) hold 36.9% of spend.
+2. **A quarter of customers are drifting.** 260 At Risk customers (last purchase about 95 days ago on average) hold INR 66.3 lakh of historical spend (28.8%); 145 of them are in the top spend quintiles (INR 41.2 lakh).
+3. **Long inactivity is a smaller group.** 168 customers (16.8%) have not purchased in 90+ days; 50 of them are high-spend (INR 14.1 lakh historical spend).
+4. **Pune has the highest share of At Risk customers** (35.5% of 93 customers), followed by Chennai (31.9%).
 
-* Revenue Concentration: Top 15% of customer accounts (Champions & Loyalists) account for 62.4% of total monetary revenue.
-* At-Risk Cohort: Identified 420 high-value customers with >90 days inactivity representing $18,500 in recoverable pipeline revenue.
-* Campaign Strategy: Recommended automated win-back discount promotions for 'At Risk' cohorts and VIP early-access campaigns for 'Champions'.
+
+## Recommendations
+- Run win-back offers for the 145 high-spend At Risk customers first.
+- Give Champions early access/loyalty benefits; test whether it raises purchase frequency.
+- Investigate Pune and Chennai before scaling campaigns there.
+
+## Limitations
+Spend figures are historical, not recoverable revenue. Frequency and Monetary are strongly correlated (r = 0.81) and both are fairly evenly spread, so quintile cutoffs define the segments more than natural groupings do. The dataset looks synthetic.
 
 ---
 
-## Future Improvements
-
-* Customer Lifetime Value (CLV) prediction
-* Machine Learning-based customer clustering
-* Interactive dashboards using Power BI or Tableau
-* Automated segmentation pipeline
 
 ---
 
