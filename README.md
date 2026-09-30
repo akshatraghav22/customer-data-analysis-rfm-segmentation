@@ -1,5 +1,7 @@
 # Customer Data Analysis & RFM Segmentation
 
+## Business problem
+Which customers are most valuable, which are drifting away, and where should retention spend go?
 ## Project Overview
 
 This project analyzes customer transaction data to understand customer behavior and identify valuable customer segments using RFM (Recency, Frequency, Monetary) analysis.
